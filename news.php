@@ -51,7 +51,7 @@
                         <div class="col-md-12">
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4 col-md-offset-3">
                                 <div>
                                     <h3>NEWS 1</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -61,7 +61,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 2</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -71,7 +71,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 3</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -81,7 +81,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 4</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -91,7 +91,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 5</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -101,7 +101,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 6</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -111,7 +111,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 7</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
@@ -121,7 +121,7 @@
                             <!-- End Portfolio Item -->
                             <!-- Portfolio Item -->
                             <a href="#">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div>
                                     <h3>NEWS 8</h3>
                                     <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
