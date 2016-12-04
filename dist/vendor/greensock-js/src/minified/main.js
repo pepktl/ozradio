@@ -21,7 +21,7 @@
 		teks3b = 'NGENES',
 		teks1c = '#1 PRIA',
 		teks2c = 'SEJATI',
-		teks3c = 'AGUS NUGRAHA';
+		teks3c = 'EKO GANTENG';
 
 
 	var tlStart = new TimelineLite();
