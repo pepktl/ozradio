@@ -10,6 +10,37 @@ body {
   font-family: Lato;
 }
 
+.color-gray {
+  color: #555555 !important;
+}
+.color-gray[class^="fa-"]:before,
+.color-gray[class*=" fa-"]:before {
+  color: #555555;
+}
+.color-gray-light {
+  color: #b3b3b3 !important;
+}
+.color-gray-light[class^="fa-"]:before,
+.color-gray-light[class*=" fa-"]:before {
+  color: #b3b3b3;
+}
+.color-gray-lighter {
+  color: #ebebeb !important;
+}
+.color-gray-lighter[class^="fa-"]:before,
+.color-gray-lighter[class*=" fa-"]:before {
+  color: #ebebeb;
+}
+
+.margin-vert-30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.padding-bottom-20 {
+  padding-bottom: 20px;
+}
+
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
@@ -135,7 +166,7 @@ header a,
   overflow: hidden;
   position: absolute;
   transition: .3s ease-out;
-  top: 80px;
+  top: 110px;
   left: 0;
   width: 100%;
   opacity: 0;
@@ -144,7 +175,6 @@ header a,
 
 .nav-btn a {
   float: left;
-  padding: 8px 0;
   opacity: .5;
   width: 100%;
   transition: .3s ease;
