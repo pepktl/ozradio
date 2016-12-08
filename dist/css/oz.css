@@ -7,7 +7,7 @@ body {
   height: 100%;
   overflow-x: hidden;
   font-weight: 700;
-  font-family: Lato;
+  font-family: Lato; 
 }
 
 .color-gray {
@@ -249,7 +249,7 @@ article { padding: 40px 10%; }
 .overlay {
   width: 100%;
   background: #fff;
-  opacity: .65;
+  opacity: 0.65;
   top: 0;
   z-index: 999;
   height: 100%;
@@ -264,7 +264,7 @@ article { padding: 40px 10%; }
   background: #FF512F; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #EB3349 , #F45C43); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #EB3349 , #F45C43); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  opacity: .65;
+  opacity: 0.65;
   top: 0;
   z-index: 10;
   height: 100%;
@@ -306,7 +306,7 @@ background: linear-gradient(to left, #FF512F , #DD2476); /* W3C, IE 10+/ Edge, F
     background: #f4c70b; /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #f60a9a , #f4c70b); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #f60a9a , #f4c70b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
-    opacity: 0.89;
+    opacity: 0.6;
 }
 
 // CONTEN OVERLAY SUNDE
