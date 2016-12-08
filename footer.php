@@ -96,5 +96,24 @@
 		<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 
 
+		<!-- JS -->
+            <script type="text/javascript" src="dist/js/port/jquery.min.js" type="text/javascript"></script>
+            <script type="text/javascript" src="dist/js/port/bootstrap.min.js" type="text/javascript"></script>
+            <script type="text/javascript" src="dist/js/port/scripts.js"></script>
+
+		<!-- Isotope - Portfolio Sorting -->
+            <script type="text/javascript" src="dist/js/port/jquery.isotope.js" type="text/javascript"></script>
+            <!-- Mobile Menu - Slicknav -->
+            <script type="text/javascript" src="dist/js/port/jquery.slicknav.js" type="text/javascript"></script>
+            <!-- Animate on Scroll-->
+            <script type="text/javascript" src="dist/js/port/jquery.visible.js" charset="utf-8"></script>
+            <!-- Sticky Div -->
+            <script type="text/javascript" src="dist/js/port/jquery.sticky.js" charset="utf-8"></script>
+            <!-- Slimbox2-->
+            <script type="text/javascript" src="dist/js/port/slimbox2.js" charset="utf-8"></script>
+            <!-- Modernizr -->
+            <script src="dist/js/port/modernizr.custom.js" type="text/javascript"></script>
+        <!-- End JS -->
+
 	</body>
 </html>

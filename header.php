@@ -14,13 +14,15 @@
 		<script src="dist/js/less-2-7-1.min.js" type="text/javascript"></script> -->
 		<link rel="stylesheet" href="dist/css/bootstrap.css">
 		<!-- Theme Css -->
-		<link rel="stylesheet" href="dist/css/nexus.css">
-		<link rel="stylesheet" href="dist/css/reponsive.css">
 		<link rel="stylesheet" href="dist/css/paralax.css">
 		<link rel="stylesheet" href="dist/css/oz.css">
-		
+		<link rel="stylesheet" href="dist/css/nexus.css">
+		<link rel="stylesheet" href="dist/css/reponsive.css">
+		<link rel="stylesheet" href="dist/css/animate.css">
+
 		<!-- font -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.css" />
+
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -86,7 +88,7 @@
 			   		<a href="program.php">Program</a> 
 			   		<a href="ponggawa.php">Ponggawa</a> 
 			   		<a href="news.php">News</a>
-			   		<a href="#">Chart</a> 
+			   		<a href="chat.php">Chart</a> 
 			   	</div>
 			</header>
 			<div class="image-overlay"></div>

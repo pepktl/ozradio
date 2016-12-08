@@ -183,7 +183,7 @@
                                             <img src="images/pong/190/nv.jpg" alt="image3">
                                             <figcaption>
                                                 <h3 class="margin-top-20">LOVE CINTA</h3>
-                                                <span>Senin: 21:00-24:00 | Program yang ngebahas semua tentang cinta</span>
+                                                <span>Senin: 21:00-24:00 | Program yang ngebahas semua tentang cinta Program yang ngebahas semua tentang cinta Program yang ngebahas semua tentang cinta Program yang ngebahas semua tentang cinta Program yang ngebahas semua tentang cinta</span>
                                             </figcaption>
                                         </figure>
                                     </a>
