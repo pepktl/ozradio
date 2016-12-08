@@ -14,6 +14,8 @@
 		<script src="dist/js/less-2-7-1.min.js" type="text/javascript"></script> -->
 		<link rel="stylesheet" href="dist/css/bootstrap.css">
 		<!-- Theme Css -->
+		<link rel="stylesheet" href="dist/css/nexus.css">
+		<link rel="stylesheet" href="dist/css/reponsive.css">
 		<link rel="stylesheet" href="dist/css/paralax.css">
 		<link rel="stylesheet" href="dist/css/oz.css">
 		
