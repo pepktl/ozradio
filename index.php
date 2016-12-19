@@ -204,44 +204,104 @@
 			<div>
 				<h1 class="our-partner">OUR PARTNER<br><small>We help more than 5,000 global clients</small></h1>
 
-					<ul class="client-footer list-unstyled">
-			    		<li class="client-margin">
-			    			<img src="images/indomie.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/g.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/sunde-bw.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/fb.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/teh-pucuk.jpg">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/indomie.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/g.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/sunde-bw.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/fb.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/teh-pucuk.jpg">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/fb.png">
-			    		</li>
-			    		<li class="client-margin">
-			    			<img src="images/teh-pucuk.jpg">
-			    		</li>
-			    	</ul>
+					<section class="section-common-space">
+
+		                <div class="container">
+
+		                    <div class="row">
+
+		                        <div class="col-sm-12">
+
+		                            <!-- PARTNERS SLIDER -->
+
+		                            <div class="partners-slider partners-slider-v2">
+
+		                                <div class="item">
+
+		                                    <img src="images/indomie.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/g.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/sunde-bw.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/teh-pucuk.jpg" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/fb.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+		                                <div class="item">
+
+		                                    <img src="images/indomie.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/g.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/sunde-bw.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/teh-pucuk.jpg" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+
+		                                <div class="item">
+
+		                                    <img src="images/fb.png" alt="partners">
+
+		                                </div> <!-- //item -->
+
+
+		                            </div> <!-- //#partners-slider -->
+
+		                        </div>
+
+		                    </div> <!-- //row -->
+
+		                </div> <!-- //container -->
+
+		            </section>
 
 		    </div>
 		</div>

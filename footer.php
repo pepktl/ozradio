@@ -16,7 +16,12 @@
 				<h6 class="footer-oz">Copyright &copy; 2016 OZ Radio Bali by <a href="#">SUN<b>DE</b></a></h6>
 
 		    </div>
-		</div>
+
+		    <!-- Go to top button -->
+
+			<button data-ripple-color="#fff" class="go-top ripple"><i class="icon-angle-up"></i></button>
+
+</div>
 
 		<!-- .END CONTENT TOP HITS -->
 
@@ -193,6 +198,26 @@
             <!-- Modernizr -->
             <script src="dist/js/port/modernizr.custom.js" type="text/javascript"></script>
         <!-- End JS -->
+
+        <!-- zim theme -->
+        	<!-- ==================   SCRIPT PART   ================= -->
+
+			<script type="text/javascript" src="dist/js/zim/vendor.js"></script>
+
+			<script type="text/javascript" src="dist/js/zim/plugins.js"></script>
+
+			<script type="text/javascript" src="dist/js/zim/app.js"></script>
+
+			<script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-88669155-2', 'auto');
+			  ga('send', 'pageview');
+			</script>
+        <!-- end zim -->
 
 	</body>
 </html>

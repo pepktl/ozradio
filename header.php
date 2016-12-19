@@ -7,6 +7,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>OZ RADIO BALI | 101.2FM</title>
 
+		<link rel="stylesheet" href="dist/css/plugins.css">
+		<link rel="stylesheet" href="dist/css/style.css">
+		<link rel="stylesheet" href="dist/css/preset/preset.css">
+		<link rel="stylesheet" href="dist/css/animate.css">
 		<!-- Slider -->
 		<link rel="stylesheet" type="text/css" href="dist/vendor/slider/css/slider.css">
 		<link rel="stylesheet" type="text/css" href="dist/css/simple-slider.css">
@@ -18,7 +22,6 @@
 		<link rel="stylesheet" href="dist/css/oz.css">
 		<link rel="stylesheet" href="dist/css/nexus.css">
 		<link rel="stylesheet" href="dist/css/reponsive.css">
-		<link rel="stylesheet" href="dist/css/animate.css">
 
 		<!-- font -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.css" />

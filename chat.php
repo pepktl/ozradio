@@ -33,184 +33,361 @@
 			</div>
 		</div>
 		<!-- SLIDESHOW -->
-		  <div class="container background-white">
-                    <div class="row margin-vert-30">
-                        <div class="col-md-12">
-                            <h2>3 Column Portfolio</h2>
-                            <!-- Filter Buttons -->
-                            <div class="portfolio-filter-container margin-top-20">
-                                <ul class="portfolio-filter">
-                                    <li class="portfolio-filter-label label label-primary">
-                                        filter by:
+        <div class="divider-page"></div>
+
+        <div class="background-white" id="content">
+            <section class="ptt40">
+                <div class="container">
+                    <div class="row">
+                        <!-- =========   ALL POSTS  ========= -->
+                        <!-- POSTS PART 1 -->
+                        <div class="col-sm-4">
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide1.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide2.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide3.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide4.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide5.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+                        </div> <!-- //.col-sm-5 POSTS PART 1 -->
+
+                        <!-- POSTS PART 2 -->
+                        <div class="col-sm-4">
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle1.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle2.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle3.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle4.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+                        </div> <!-- //.col-sm-3 POSTS PART 2 -->
+                        <!-- //END ALL POSTS -->
+
+
+                        <!-- =========   SIDEBAR  ========= -->
+                        <div class="col-sm-4">
+                            <!-- MOST POPULAR ARTICLE -->
+                            <div class="most-popular most-popular-v2 mtb50">
+                                <h5 class="section-title mini-title">Most Popular</h5>
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title ft-fm-2">
+                                            The Ily phone lets kids make video calls...
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Chill smarter: The Loungr Inflatable Chair is now
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Apple doesn't understand photography
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article>
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Ace the Amazon Web Services Certification Exams
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+                            </div> <!-- //most popular article -->
+
+                            <!-- CATEGORIES -->
+                            <div class="overflow-hid mtb40">
+                                <h5 class="section-title mini-title">All Categories</h5>
+                                <ul class="categories ft-fm-2">
+                                    <li>
+                                        <a href="#">Web Design <span class="count">(2)</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="portfolio-selected btn btn-default" data-filter="*">All</a>
+                                        <a href="#">People</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="btn btn-default" data-filter=".code">Coding</a>
+                                        <a href="#">Photography <span class="count">(4)</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="btn btn-default" data-filter=".design">Design</a>
+                                        <a href="#">Videos <span class="count">(3)</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="btn btn-default" data-filter=".audio">Audio</a>
+                                        <a href="#">Animals</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="btn btn-default" data-filter=".video">Video</a>
+                                        <a href="#">Lifestyle <span class="count">(2)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Business</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Technology <span class="count">(1)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Sports</a>
                                     </li>
                                 </ul>
-                            </div>
-                            <!-- End Filter Buttons -->
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12 portfolio-group no-padding">
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 video">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image1.jpg" alt="image1">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Velit esse molestie</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
+                            </div> <!-- //categories -->
+
+                        <div class="col-sm-12">
+                            <!-- =========   PAGINATION  ========= -->
+                            <ul class="pagination mtb140">
+                                <li>
+                                    <a href="#" aria-label="Previous">
+                                        <span aria-hidden="true"><i class="fa fa-angle-double-left"></i> PREV</span>
                                     </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 design">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image2.jpg" alt="image2">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Quam nunc putamus</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
+                                </li>
+                                <li class="active"><a href="#">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li>
+                                    <a href="#" aria-label="Next">
+                                        <span aria-hidden="true">NEXT <i class="fa fa-angle-double-right"></i></span>
                                     </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 video">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image3.jpg" alt="image3">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Placerat facer possim</h3>
-                                                <span>Sed.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 video">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image4.jpg" alt="image4">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Nam liber tempor</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 audio">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image5.jpg" alt="image5">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Donec non urna</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 code">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image6.jpg" alt="image6">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Nullam consectetur</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 code">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image7.jpg" alt="image7">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Velit esse molestie</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 code">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image8.jpg" alt="image8">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Quam nunc putamus</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40 audio">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="assets/img/portfolio/image9.jpg" alt="image9">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Placerat facer possim</h3>
-                                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                        </div>
-                    </div>
-                </div>
-		<div class="divider-page"></div>
-		<!-- =================================================== -->
-		<!-- CONTENT -->
-		<!-- === PROGRAM CONTENT === -->
-		<div id="content" style="background-color: #FFFFFF">
-            
+                                </li>
+                            </ul> <!-- //end pagination -->
+                        </div> <!-- //.col-sm-12 -->
+                    </div> <!-- //row -->
+                </div> <!-- //container -->
+            </section>
+            <!-- //End blog section -->
+
         </div>
-            <!-- === END PROGRAM CONTENT === -->
+        
 		<div class="divider-page"></div>
 
 		<!-- ==================================================== -->

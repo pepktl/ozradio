@@ -34,116 +34,99 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-        <div id="content">
+        <!-- === PROGRAM CONTENT === -->
+            <div id="content" style="background-color: #FFFFFF">
                 <div class="container background-white">
                     <div class="row">
-                        <div class="col-md-12" style="padding-top: 100px">
-                            <h1 style="color: #ffe400">STAY UP TO DATE</h1>
-                            <div>
-                                <h2>WITH OZ RADIO BALI</h2>
-                            </div>
-                            <div style="padding-top: 30px">
-                                <span>HOT NEWS, OZ Radio Bali dan seterusnya</span>
-                            </div>
+                        <div class="col-md-12" style="padding-top: 20px;">
+                            <h1 align="center" style="color: #ffc700; display: block; margin-bottom: 10px;">PROGRAM</h1>
+                            
                         </div>
                     </div>
-                    <div class="row" style="margin-top: 50px; margin-bottom: 30px; background-color: #FFFFFF">
-                        <div class="col-md-12">
-                            <ul class="list-unstyled news-ul">
-                                <li class="col-md-6 news-list">
-                                    <a href="">
-                                        <div class="row" style="background-color: #000000">
-                                            <div class="col-md-8">
-                                                <h3>NEWS 1</h3>
-                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-                                            </div>
-                                            <div class="col-md-2">
-                                                <img src="images/pong/190/ep.jpg" style="width: 100px; height: 100px; padding-top: 50px; padding-left: 70px;">
-                                            </div>        
-                                        </div>
+                    <div class="row">
+                        
+                        <div class="col-md-12 portfolio-group no-padding">
+                            <!-- Portfolio Item -->
+                            <div class="col-md-4 portfolio-item margin-bottom-40">
+                                <div>
+                                    <a href="#">
+                                        <figure>
+                                            <img src="images/gac.jpg" alt="image1">
+                                            <figcaption>
+                                                <h3 class="margin-top-20">Discoland</h3>
+                                                <span>Sabtu: 21:00-24:00 | Yuk Hangout bareng OZ DISCOLAND! Tiap malam minggu, D’OZ Radio bakal nemenin Ozzers hang out bareng dengan teman”nya. Ada Bimo Hardojudanto yang puterin lagu - lagu dance yang sedang  dan bakal trend dan materi” siaran seputar dunia clubbing</span>
+                                            </figcaption>
+                                        </figure>
                                     </a>
-                                </li>
-                            </ul>
-
-                            <!-- <a href="#">
-                            <div class="col-md-4 col-md-offset-3">
-                                <div>
-                                    <h3>NEWS 1</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
                                 </div>
                             </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
+                            <!-- End Portfolio Item -->
+                            <!-- Portfolio Item -->
+                            <div class="col-md-4 portfolio-item margin-bottom-40">
                                 <div>
-                                    <h3>NEWS 2</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
+                                    <a href="#">
+                                        <figure>
+                                            <img src="images/maxres.jpg" alt="image2">
+                                            <figcaption>
+                                                <h3 class="margin-top-20">FRESH (Fast Request Show)</h3>
+                                                <span>Senin s.d Minggu: 14:00-16:00 | Program request di D’Oz Radio Bali, disini kita bakal muterin lagu pilihan ozzers yang sudah mereka request secara on air</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
                                 </div>
                             </div>
-                            </a>
-
-                            <a href="#">
-                            <div class="col-md-4">
+                            <!-- End Portfolio Item -->
+                            <!-- Portfolio Item -->
+                            <div class="col-md-4 portfolio-item margin-bottom-40">
                                 <div>
-                                    <h3>NEWS 3</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
+                                    <a href="#">
+                                        <figure>
+                                            <img src="images/om-bob.jpg" alt="image3">
+                                            <figcaption>
+                                                <h3 class="margin-top-20">LOVE CINTA</h3>
+                                                <span>Senin: 21:00-24:00 | Program yang ngebahas semua tentang cinta, di setiap edisinya bakal ngebahas satu hal yang menarik dari lika liku percintaan ozzers, mulai dari yang menyenangkan sampai menyedihkan. Dikemas dengan lagu lagu semua tentang cinta membuat malamnya ozzers jadi penuh cinta</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
                                 </div>
                             </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
+                            <!-- End Portfolio Item -->
+                            <!-- Portfolio Item -->
+                            <div class="col-md-4 portfolio-item margin-bottom-40">
                                 <div>
-                                    <h3>NEWS 4</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
+                                    <a href="#">
+                                        <figure>
+                                            <img src="images/is.jpg" alt="image4">
+                                            <figcaption>
+                                                <h3 class="margin-top-20">Mata Sapi (Matahari Setiap Pagi)</h3>
+                                                <span>Senin s.d Jum’at: 06:00–10:00 | Racikan prime time pagi yang dikemas dengan ringan, fun penuh dengan humor dan informatif, bakalan jadi awal hari yang menyenangkan dan penuh semangat</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
                                 </div>
                             </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
+                            <!-- End Portfolio Item -->
+                            <!-- Portfolio Item -->
+                            <div class="col-md-4 portfolio-item margin-bottom-40">
                                 <div>
-                                    <h3>NEWS 5</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
+                                    <a href="#">
+                                        <figure>
+                                            <img src="images/iwan-fals.jpg" alt="image5">
+                                            <figcaption>
+                                                <h3 class="margin-top-20">SORE SANTAI</h3>
+                                                <span>Senin s.d Jum’at: 16:00–19:00 | Program prime time yang akan membuat sore kamu lebih santai, setelah pulang dari aktivitas dan juga nemenin ozzers yang sedang di jalan, ataupun yang sedang santai santai di rumah</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
                                 </div>
                             </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
-                                <div>
-                                    <h3>NEWS 6</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                </div>
-                            </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
-                                <div>
-                                    <h3>NEWS 7</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                </div>
-                            </div>
-                            </a>
-                            
-                            <a href="#">
-                            <div class="col-md-4">
-                                <div>
-                                    <h3>NEWS 8</h3>
-                                    <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                                </div>
-                            </div>
-                            </a> -->
-                            
+                            <!-- End Portfolio Item -->
                         </div>
+
                     </div>
                 </div>
-            </div> 
+            </div>
+            <!-- === END PROGRAM CONTENT === --> 
 		<div class="divider-page"></div>
-
-		<!-- ==================================================== -->
-		<!-- CONTENT -->
 <?php include 'footer.php' ?>
 		
