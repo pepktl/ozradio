@@ -1,31 +1,29 @@
 <?php include 'header.php' ?>
-					<div class="slider" id="slider">
-						<div class="slItems">
 
-							<div class="slText">
-								<h1 id="teks3" class="slider-txt" style="display: block;">PONGGAWA</h1>
-								
+					<div class="slider">
+                        <div class="slText" style="z-index: 5; position: absolute;">
+                                
+                                <h1 class="slider-txt" style="z-index: 5;">
+                                    <span id="teks1" style="display: block;">PONGGAWA</span> 
+                                 </h1>
+                                
 
-							</div>
-
-							<div class="slmouse">
-								<span class="scroll-btn" style="bottom: 6em;">
-									<a href="#">
-										<span class="mouse">
-											<span>
-											</span>
-										</span>
-									</a>
-								</span>
-								
-							</div>
-							
-							<div class="slItem" style="background-image: url('images/is.jpg'); z-index: 0; position: ;">
-								
-							</div>
-						</div>
-					</div>
-
+                            </div>
+                        <div class="slmouse">
+                                <span class="scroll-btn" style="bottom: -20%;">
+                                    <a href="#"> 
+                                        <span class="mouse">
+                                            <span>
+                                            </span>
+                                        </span>
+                                    </a>
+                                </span>
+                                
+                            </div>
+                      <div class="slide1" style="background-image: url(images/om-bob.jpg);"></div>
+                      <div class="slide2" style="background-image: url(images/iwan-fals.jpg);"></div>
+                      <div class="slide3" style="background-image: url(images/is.jpg);"></div> 
+                    </div>
 
 				</div>
 				
@@ -178,6 +176,27 @@
 			  modal.style.display = "none";
 			}
 		</script>
+
+        <!-- GSAP -->
+        <script src="dist\vendor\greensock-js\src\minified\TweenMax.min.js"></script>
+        <script src="dist\vendor\greensock-js\src\minified\plugins\CSSPlugin.min.js"></script>
+        <script src="dist\vendor\greensock-js\src\minified\plugins\TextPlugin.min.js"></script>
+        <!-- <script src="dist\vendor\greensock-js\src\minified\main.js"></script> -->
+        
+        <script>
+        (function($){
+            // jQuery
+            var mouse = $('.slmouse'),
+                teks1 = $('#teks1');
+
+            var tlStart = new TimelineLite();
+
+            tlStart
+                .from(mouse, 1, {y:-150, opacity:0, delay:0.5, ease: Power2. easeOut})
+                .from(teks1, 1, {y:-25, opacity:0, ease: Power2. easeOut}, '-=0.5');
+
+        })(jQuery);
+        </script>
 
 <?php include 'footer.php' ?>
 		
