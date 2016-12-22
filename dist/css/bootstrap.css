@@ -1589,6 +1589,47 @@ pre code {
     width: 945px;
   }
 }
+
+.container-news {
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container-news {
+    width: 525px;
+  }
+}
+@media (min-width: 992px) {
+  .container-news {
+    width: 745px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-news {
+    width: 1245px;
+  }
+}
+
+.container-prg {
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container-prg {
+    width: 525px;
+  }
+}
+@media (min-width: 992px) {
+  .container-prg {
+    width: 745px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-prg {
+    width: 1045px;
+  }
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;

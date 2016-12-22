@@ -88,13 +88,13 @@
 							<div class="menu-play row">
 								<div class="btn-group btn-group-justified" role="group" aria-label="...">
 								  <div class="btn-group" role="group">
-								    <a href="http://www.joox.com/#/single?id=G1enaDDlmQ+8DYJGK2G6dw==" target="_blank" class="btn">PLAY</a>
+								    <a href="http://www.joox.com/#/single?id=G1enaDDlmQ+8DYJGK2G6dw==" target="_blank">PLAY</a>
 								  </div>
 								  <div class="btn-group" role="group">
-								    <a href="https://itunes.apple.com/us/album/in-the-name-of-love-single/id1137640898" target="_blank" class="btn">BUY</a>
+								    <a href="https://itunes.apple.com/us/album/in-the-name-of-love-single/id1137640898" target="_blank">BUY</a>
 								  </div>
 								  <div class="btn-group" role="group">
-								    <a href="https://youtu.be/RnBT9uUYb1w" target="_blank" class="btn">VIDEO</a>
+								    <a href="https://youtu.be/RnBT9uUYb1w" target="_blank">VIDEO</a>
 								  </div>
 								</div>
 							</div>

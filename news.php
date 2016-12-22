@@ -34,99 +34,359 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-        <!-- === PROGRAM CONTENT === -->
-            <div id="content" style="background-color: #FFFFFF">
-                <div class="container background-white">
+        <!-- === NEWS CONTENT === -->
+        <div class="background-white">
+            <section class="ptt40">
+                <div class="container-news">
                     <div class="row">
-                        <div class="col-md-12" style="padding-top: 20px;">
-                            <h1 align="center" style="color: #ffc700; display: block; margin-bottom: 10px;">PROGRAM</h1>
-                            
-                        </div>
-                    </div>
-                    <div class="row">
-                        
-                        <div class="col-md-12 portfolio-group no-padding">
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/gac.jpg" alt="image1">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Discoland</h3>
-                                                <span>Sabtu: 21:00-24:00 | Yuk Hangout bareng OZ DISCOLAND! Tiap malam minggu, D’OZ Radio bakal nemenin Ozzers hang out bareng dengan teman”nya. Ada Bimo Hardojudanto yang puterin lagu - lagu dance yang sedang  dan bakal trend dan materi” siaran seputar dunia clubbing</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
+                        <!-- =========   ALL POSTS  ========= -->
+                        <!-- POSTS PART 1 -->
+                        <div class="col-sm-4">
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide1.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
                                 </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/maxres.jpg" alt="image2">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">FRESH (Fast Request Show)</h3>
-                                                <span>Senin s.d Minggu: 14:00-16:00 | Program request di D’Oz Radio Bali, disini kita bakal muterin lagu pilihan ozzers yang sudah mereka request secara on air</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/om-bob.jpg" alt="image3">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">LOVE CINTA</h3>
-                                                <span>Senin: 21:00-24:00 | Program yang ngebahas semua tentang cinta, di setiap edisinya bakal ngebahas satu hal yang menarik dari lika liku percintaan ozzers, mulai dari yang menyenangkan sampai menyedihkan. Dikemas dengan lagu lagu semua tentang cinta membuat malamnya ozzers jadi penuh cinta</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/is.jpg" alt="image4">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">Mata Sapi (Matahari Setiap Pagi)</h3>
-                                                <span>Senin s.d Jum’at: 06:00–10:00 | Racikan prime time pagi yang dikemas dengan ringan, fun penuh dengan humor dan informatif, bakalan jadi awal hari yang menyenangkan dan penuh semangat</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                            <!-- Portfolio Item -->
-                            <div class="col-md-4 portfolio-item margin-bottom-40">
-                                <div>
-                                    <a href="#">
-                                        <figure>
-                                            <img src="images/iwan-fals.jpg" alt="image5">
-                                            <figcaption>
-                                                <h3 class="margin-top-20">SORE SANTAI</h3>
-                                                <span>Senin s.d Jum’at: 16:00–19:00 | Program prime time yang akan membuat sore kamu lebih santai, setelah pulang dari aktivitas dan juga nemenin ozzers yang sedang di jalan, ataupun yang sedang santai santai di rumah</span>
-                                            </figcaption>
-                                        </figure>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Item -->
-                        </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
 
-                    </div>
-                </div>
-            </div>
-            <!-- === END PROGRAM CONTENT === --> 
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide2.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide3.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide4.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_wide5.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            We are hardworker people
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+                        </div> <!-- //.col-sm-5 POSTS PART 1 -->
+
+                        <!-- POSTS PART 2 -->
+                        <div class="col-sm-4">
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle1.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle2.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle3.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+
+                            <article class="single-post-v2 mtb35">
+                                <div class="img-wrapper relative">
+                                    <div class="bgcolor-major-gradient-overlay"></div>
+                                    <img src="images/blog/list2/blog_traingle4.jpg" alt="img">
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                </div>
+                                <div class="info">
+                                    <span class="tag">INSPIRATION</span>
+                                    <h3 class="title">
+                                        <a href="single.html">
+                                            New Trends In Web Design
+                                        </a>
+                                    </h3>
+                                    <p class="intro">
+                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
+                                    </p>
+                                    <div class="article-info">
+                                        <ul>
+                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
+                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
+                                        </ul>
+                                    </div> <!-- //.article-info -->
+                                </div> <!-- //.info -->
+                            </article> <!-- //article -->
+                        </div> <!-- //.col-sm-3 POSTS PART 2 -->
+                        <!-- //END ALL POSTS -->
+
+                        <div class="col-sm-12">
+                            <!-- =========   PAGINATION  ========= -->
+                            <ul class="pagination mtb140">
+                                <li>
+                                    <a href="#" aria-label="Previous">
+                                        <span aria-hidden="true"><i class="fa fa-angle-double-left"></i> PREV</span>
+                                    </a>
+                                </li>
+                                <li class="active"><a href="#">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li>
+                                    <a href="#" aria-label="Next">
+                                        <span aria-hidden="true">NEXT <i class="fa fa-angle-double-right"></i></span>
+                                    </a>
+                                </li>
+                            </ul> <!-- //end pagination -->
+                        </div> <!-- //.col-sm-12 -->
+
+                        <!-- =========   SIDEBAR  ========= -->
+                        <div class="col-sm-4">
+                            <!-- MOST POPULAR ARTICLE -->
+                            <div class="most-popular most-popular-v2 mtb50">
+                                <h5 class="section-title mini-title">Most Popular</h5>
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title ft-fm-2">
+                                            The Ily phone lets kids make video calls...
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Chill smarter: The Loungr Inflatable Chair is now
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article class="mtb10">
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Apple doesn't understand photography
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+
+                                <article>
+                                    <div class="img-wrapper">
+                                        <a href="single.html"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
+                                    </div>
+                                    <div class="info">
+                                        <div class="bgcolor-major-gradient-overlay"></div>
+                                        <a href="single.html" class="title">
+                                            Ace the Amazon Web Services Certification Exams
+                                        </a>
+                                    </div> <!-- //.info -->
+                                </article> <!-- //article -->
+                            </div> <!-- //most popular article -->
+
+                            <!-- CATEGORIES -->
+                            <div class="overflow-hid mtb40">
+                                <h5 class="section-title mini-title">All Categories</h5>
+                                <ul class="categories ft-fm-2">
+                                    <li>
+                                        <a href="#">Web Design <span class="count">(2)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">People</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Photography <span class="count">(4)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Videos <span class="count">(3)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Animals</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Lifestyle <span class="count">(2)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Business</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Technology <span class="count">(1)</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Sports</a>
+                                    </li>
+                                </ul>
+                            </div> <!-- //categories -->
+                    </div> <!-- //row -->
+                </div> <!-- //container -->
+            </section>
+            <!-- //End blog section -->
+        </div>
+        <!-- === END NEWS CONTENT === --> 
+
 		<div class="divider-page"></div>
         
         <!-- jQuery -->

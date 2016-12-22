@@ -33,358 +33,73 @@
 		<!-- SLIDESHOW -->
         <div class="divider-page"></div>
 
-        <div class="background-white" id="content">
-            <section class="ptt40">
-                <div class="container">
-                    <div class="row">
-                        <!-- =========   ALL POSTS  ========= -->
-                        <!-- POSTS PART 1 -->
-                        <div class="col-sm-4">
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_wide1.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            We are hardworker people
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_wide2.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            We are hardworker people
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_wide3.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            We are hardworker people
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_wide4.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            We are hardworker people
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_wide5.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            We are hardworker people
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        Cras vitae varius velit. In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus, in consequat.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-                        </div> <!-- //.col-sm-5 POSTS PART 1 -->
-
-                        <!-- POSTS PART 2 -->
-                        <div class="col-sm-4">
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_traingle1.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            New Trends In Web Design
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_traingle2.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            New Trends In Web Design
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_traingle3.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            New Trends In Web Design
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-
-                            <article class="single-post-v2 mtb35">
-                                <div class="img-wrapper relative">
-                                    <div class="bgcolor-major-gradient-overlay"></div>
-                                    <img src="images/blog/list2/blog_traingle4.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
-                                </div>
-                                <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
-                                            New Trends In Web Design
-                                        </a>
-                                    </h3>
-                                    <p class="intro">
-                                        In congue tellus sit amet lorem sagittis sodales. Maecenas dignissim mattis lacus.
-                                    </p>
-                                    <div class="article-info">
-                                        <ul>
-                                            <li class="author-name"><i class="icon-user"></i> <a href="#">Jamie Doe</a></li>
-                                            <li><i class="icon-calendar"></i> May 20, 2015</li>
-                                        </ul>
-                                    </div> <!-- //.article-info -->
-                                </div> <!-- //.info -->
-                            </article> <!-- //article -->
-                        </div> <!-- //.col-sm-3 POSTS PART 2 -->
-                        <!-- //END ALL POSTS -->
-
-
-                        <!-- =========   SIDEBAR  ========= -->
-                        <div class="col-sm-4">
-                            <!-- MOST POPULAR ARTICLE -->
-                            <div class="most-popular most-popular-v2 mtb50">
-                                <h5 class="section-title mini-title">Most Popular</h5>
-                                <article class="mtb10">
-                                    <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title ft-fm-2">
-                                            The Ily phone lets kids make video calls...
-                                        </a>
-                                    </div> <!-- //.info -->
-                                </article> <!-- //article -->
-
-                                <article class="mtb10">
-                                    <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
-                                            Chill smarter: The Loungr Inflatable Chair is now
-                                        </a>
-                                    </div> <!-- //.info -->
-                                </article> <!-- //article -->
-
-                                <article class="mtb10">
-                                    <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
-                                            Apple doesn't understand photography
-                                        </a>
-                                    </div> <!-- //.info -->
-                                </article> <!-- //article -->
-
-                                <article>
-                                    <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
-                                    </div>
-                                    <div class="info">
-                                        <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
-                                            Ace the Amazon Web Services Certification Exams
-                                        </a>
-                                    </div> <!-- //.info -->
-                                </article> <!-- //article -->
-                            </div> <!-- //most popular article -->
-
-                            <!-- CATEGORIES -->
-                            <div class="overflow-hid mtb40">
-                                <h5 class="section-title mini-title">All Categories</h5>
-                                <ul class="categories ft-fm-2">
-                                    <li>
-                                        <a href="#">Web Design <span class="count">(2)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">People</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Photography <span class="count">(4)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Videos <span class="count">(3)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Animals</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Lifestyle <span class="count">(2)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Business</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Technology <span class="count">(1)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Sports</a>
-                                    </li>
-                                </ul>
-                            </div> <!-- //categories -->
-
-                        <div class="col-sm-12">
-                            <!-- =========   PAGINATION  ========= -->
-                            <ul class="pagination mtb140">
-                                <li>
-                                    <a href="#" aria-label="Previous">
-                                        <span aria-hidden="true"><i class="fa fa-angle-double-left"></i> PREV</span>
-                                    </a>
-                                </li>
-                                <li class="active"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">5</a></li>
-                                <li>
-                                    <a href="#" aria-label="Next">
-                                        <span aria-hidden="true">NEXT <i class="fa fa-angle-double-right"></i></span>
-                                    </a>
-                                </li>
-                            </ul> <!-- //end pagination -->
-                        </div> <!-- //.col-sm-12 -->
-                    </div> <!-- //row -->
-                </div> <!-- //container -->
-            </section>
-            <!-- //End blog section -->
-
+        <!-- Tab v3 -->
+        <div class="row tabs">
+            <div class="col-sm-3">
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="active">
+                        <a href="#sample-3a" data-toggle="tab">
+                            <i class="fa fa-home"></i>Sample Heading 1</a>
+                    </li>
+                    <li>
+                        <a href="#sample-3b" data-toggle="tab">
+                            <i class="fa fa-cloud"></i>Sample Heading 2</a>
+                    </li>
+                    <li>
+                        <a href="#sample-3c" data-toggle="tab">
+                            <i class="fa fa-comments"></i>Sample Heading 3</a>
+                    </li>
+                    <li>
+                        <a href="#sample-3d" data-toggle="tab">
+                            <i class="fa fa-gear"></i>Sample Heading 4</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-9">
+                <div class="tab-content">
+                    <div class="tab-pane fade in active" id="sample-3a">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <img src="assets/img/fillers/filler2.jpg" alt="filler image">
+                            </div>
+                            <div class="col-md-7">
+                                <h3 class="no-margin no-padding">Humanitatis Per Seacula</h3>
+                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
+                                    qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothicas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade in" id="sample-3b">
+                        <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui
+                            sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem
+                            modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                    </div>
+                    <div class="tab-pane fade in" id="sample-3c">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <img src="assets/img/fillers/filler3.jpg" alt="filler image">
+                            </div>
+                            <div class="col-md-7">
+                                <h3 class="no-margin no-padding">Mirum Est Notare</h3>
+                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
+                                    qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothicas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade in" id="sample-3d">
+                        <p>Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque
+                            fermentum, ante ac interdum ullamcorper. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum, consectetur id.</p>
+                        <ul>
+                            <li>Donec eget orci metus</li>
+                            <li>Ante ac interdum ullamcorper</li>
+                            <li>Vivamus imperdiet condimentum</li>
+                            <li>Pellentesque fermentum</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
+        <!-- Tab v3 -->
         
 		<div class="divider-page"></div>
 
