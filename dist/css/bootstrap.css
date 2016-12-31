@@ -1463,7 +1463,8 @@ abbr[data-original-title] {
   font-size: 90%;
   text-transform: uppercase;
 }
-blockquote {
+
+/*blockquote {
   padding: 8.5px 17px;
   margin: 0 0 17px;
   font-size: 15px;
@@ -1486,8 +1487,9 @@ blockquote footer:before,
 blockquote small:before,
 blockquote .small:before {
   content: '\2014 \00A0';
-}
-.blockquote-reverse,
+}*/
+
+/*.blockquote-reverse,
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
@@ -1510,7 +1512,8 @@ blockquote.pull-right small:after,
 .blockquote-reverse .small:after,
 blockquote.pull-right .small:after {
   content: '\00A0 \2014';
-}
+}*/
+
 address {
   margin-bottom: 17px;
   font-style: normal;
@@ -1610,6 +1613,29 @@ pre code {
   }
 }
 
+.container-chart {
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container-chart {
+    width: 525px;
+  }
+}
+@media (min-width: 992px) {
+  .container-chart {
+    width: 745px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-chart {
+    width: 1245px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 35px;
+  }
+}
+
 .container-prg {
   margin-right: auto;
   margin-left: auto;
@@ -1626,7 +1652,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container-prg {
-    width: 1045px;
+    width: 1245px;
   }
 }
 
@@ -4834,7 +4860,8 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .breadcrumb > .active {
   color: #ffffff;
 }
-.pagination {
+
+/*.pagination {
   display: inline-block;
   padding-left: 0;
   margin: 17px 0;
@@ -4967,7 +4994,8 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   color: #ffffff;
   background-color: #fff;
   cursor: not-allowed;
-}
+}*/
+
 .label {
   display: inline;
   padding: .2em .6em .3em;

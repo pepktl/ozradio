@@ -498,7 +498,8 @@ TABLE OF CONTENTS
 /*-----------------------------------------------------------------------------------*/
 /* Blockquotes */
 /*-----------------------------------------------------------------------------------*/
-blockquote {
+
+/*blockquote {
   border: 1px solid #b3b3b3;
   border-left: 10px solid #b3b3b3;
   border-radius: 0px;
@@ -534,7 +535,8 @@ blockquote.bg-primary {
   border: 1px solid #8faca6;
   border-left: 10px solid #8faca6;
   color: #ffffff;
-}
+}*/
+
 /*-----------------------------------------------------------------------------------*/
 /* Font Awesome */
 /*-----------------------------------------------------------------------------------*/
@@ -2016,3 +2018,90 @@ ul.posts-list li {
   min-height: 40px;
   text-align: center;
 }
+
+/*input*/
+input:hover,
+input:focus,
+input:active,
+textarea:hover,
+textarea:focus,
+textarea:active{
+    outline: none;
+}
+input,textarea{
+    border: none;
+    border-bottom: 2px solid #e0e0e0;
+    line-height: 40px;
+    font-size: 16px;
+}
+
+/*input animation*/
+.input {
+    position: relative;
+    z-index: 1;
+    display: block;
+}
+.input:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+.input-textarea:after{
+    bottom: 6px;
+}
+.input-field {
+    -webkit-transition: background-color 0.25s, border-color 0.25s;
+    transition: background-color 0.25s, border-color 0.25s;
+}
+
+.input-label {
+    width: 100%;
+    text-align: left;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    pointer-events: none;
+    overflow: hidden;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #bdbdbd;
+    -webkit-transform: translate3d(0, 2em, 0);
+    transform: translate3d(0, 2em, 0);
+    -webkit-transition: -webkit-transform 0.25s, font-size .25s;
+    transition: transform 0.25s , font-size .25s;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+}
+
+.input-label-content {
+    -webkit-transition: -webkit-transform 0.25s;
+    transition: transform 0.25s;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+}
+
+.input-field:focus + .input-label,
+.input-filled .input-label {
+    color: #8B8C8B;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    font-size: 13px;
+}
+
+.input-field:focus + .input-label .input-label-content,
+.input-filled .input-label-content {
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+}
+
+.input:focus:after,
+.input-filled.input:after {
+    width: 100%;
+}
+/*End input animation*/

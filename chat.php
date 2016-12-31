@@ -33,73 +33,381 @@
 		<!-- SLIDESHOW -->
         <div class="divider-page"></div>
 
-        <!-- Tab v3 -->
-        <div class="row tabs">
-            <div class="col-sm-3">
-                <ul class="nav nav-pills nav-stacked">
-                    <li class="active">
-                        <a href="#sample-3a" data-toggle="tab">
-                            <i class="fa fa-home"></i>Sample Heading 1</a>
-                    </li>
-                    <li>
-                        <a href="#sample-3b" data-toggle="tab">
-                            <i class="fa fa-cloud"></i>Sample Heading 2</a>
-                    </li>
-                    <li>
-                        <a href="#sample-3c" data-toggle="tab">
-                            <i class="fa fa-comments"></i>Sample Heading 3</a>
-                    </li>
-                    <li>
-                        <a href="#sample-3d" data-toggle="tab">
-                            <i class="fa fa-gear"></i>Sample Heading 4</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-sm-9">
-                <div class="tab-content">
-                    <div class="tab-pane fade in active" id="sample-3a">
-                        <div class="row">
-                            <div class="col-md-5">
-                                <img src="assets/img/fillers/filler2.jpg" alt="filler image">
-                            </div>
-                            <div class="col-md-7">
-                                <h3 class="no-margin no-padding">Humanitatis Per Seacula</h3>
-                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
-                                    qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothicas.</p>
-                            </div>
+        <div class="background-white">
+
+        <div class="container-chart">
+            <section id="about-us" class="about-us-bg section-common-space">
+                <!-- ========== SECTION HEADER ========== -->
+
+                <div class="section-header section-header-v2 text-center">
+
+                    <h2 class="section-title">PROGRAM</h2>
+
+                    <p class="section-subtitle ft-fm-2">
+
+                        PROGRAM HITS OZ RADIO BALI
+
+                    </p>
+
+                </div> <!-- //section-header -->
+
+                <div class="tabbed-about-us tabbed-about-us-v2">
+
+                    <div class="row">
+
+                        <div class="col-sm-12">
+
+                            <!-- ========== NAV TABS ========== -->
+
+                            <ul class="tabs-nav" role="tablist">
+
+                                <li data-ripple-color="#fff" class="ripple active" role="presentation">
+                                    <a href="#1" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/blog/1.jpg" alt="img">
+                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#2" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/blog/1.jpg" alt="img">
+                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#3" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/blog/1.jpg" alt="img">
+                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#4" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/blog/1.jpg" alt="img">
+                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                        </div>
+                                    </a>
+                                </li>
+
+                            </ul>
+
+                        </div> <!-- //.col-sm-6 -->
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-8">
+
+                            <div class="tab-content">
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane active" id="1">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
+                                            <table class="table table-striped">
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">01</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">02</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">03</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">04</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">05</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">06</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Agus Dwi Nugraha</td>
+                                                  <td style="color: #000">Ten Kayun Nyentana</td>
+                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                              </tr>
+                                            </table>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane" id="2">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
+                                            <table class="table table-striped">
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">01</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">02</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">03</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">04</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">05</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">06</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Lomine</td>
+                                                  <td style="color: #000">Lama Menduda</td>
+                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                              </tr>
+                                            </table>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane" id="3">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
+                                            <table class="table table-striped">
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">01</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">02</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">03</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">04</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">05</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">06</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Man Ngah</td>
+                                                  <td style="color: #000">Kealang Sentana</td>
+                                                  <td style="color: #000">Kapal Unipersal</td>
+                                              </tr>
+                                            </table>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane" id="4">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
+                                            <table class="table table-striped">
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">01</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">02</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">03</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">04</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">05</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr style="width: 100%">
+                                                  <td style="color: #000">06</td>
+                                                  <td style="color: #000">
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td style="color: #000">Iting Ganteng</td>
+                                                  <td style="color: #000">Takut Sama Mama</td>
+                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                              </tr>
+                                            </table>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+                            </div> <!-- //tab-content -->
+
                         </div>
-                    </div>
-                    <div class="tab-pane fade in" id="sample-3b">
-                        <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui
-                            sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem
-                            modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                    </div>
-                    <div class="tab-pane fade in" id="sample-3c">
-                        <div class="row">
-                            <div class="col-md-5">
-                                <img src="assets/img/fillers/filler3.jpg" alt="filler image">
-                            </div>
-                            <div class="col-md-7">
-                                <h3 class="no-margin no-padding">Mirum Est Notare</h3>
-                                <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
-                                    qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothicas.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade in" id="sample-3d">
-                        <p>Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, Vivamus imperdiet condimentum diam, eget placerat felis consectetur id. Donec eget orci metus, ac adipiscing nunc. Pellentesque
-                            fermentum, ante ac interdum ullamcorper. Donec eget orci metus, ac adipiscing nunc. Pellentesque fermentum, consectetur id.</p>
-                        <ul>
-                            <li>Donec eget orci metus</li>
-                            <li>Ante ac interdum ullamcorper</li>
-                            <li>Vivamus imperdiet condimentum</li>
-                            <li>Pellentesque fermentum</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+
+                    </div><!-- //.row -->
+
+                </div> <!-- //tabbed-about-us -->
+            </section>
         </div>
-        <!-- Tab v3 -->
+
+        </div>
         
 		<div class="divider-page"></div>
 

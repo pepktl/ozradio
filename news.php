@@ -38,20 +38,36 @@
         <div class="background-white">
             <section class="ptt40">
                 <div class="container-news">
+
+                    <!-- ========== SECTION HEADER ========== -->
+
+                    <div class="section-header section-header-v2">
+
+                        <h2 class="section-title">Interesting for reading</h2>
+
+                        <p class="section-subtitle ft-fm-2">
+
+                            Curabitur augue elit, egestas vitae erat sed, in the maximus very <br> sollicitudin nisi. In a diam vehicula sed sollicitudin
+
+                        </p>
+
+                    </div> <!-- //section-header -->
+
                     <div class="row">
                         <!-- =========   ALL POSTS  ========= -->
                         <!-- POSTS PART 1 -->
-                        <div class="col-sm-4">
+                        <div class="col-sm-4 padding-horiz-10">
+
                             <article class="single-post-v2 mtb35">
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide1.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             We are hardworker people
                                         </a>
                                     </h3>
@@ -71,12 +87,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide2.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             We are hardworker people
                                         </a>
                                     </h3>
@@ -96,12 +112,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide3.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             We are hardworker people
                                         </a>
                                     </h3>
@@ -121,12 +137,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide4.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             We are hardworker people
                                         </a>
                                     </h3>
@@ -146,12 +162,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide5.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             We are hardworker people
                                         </a>
                                     </h3>
@@ -169,17 +185,17 @@
                         </div> <!-- //.col-sm-5 POSTS PART 1 -->
 
                         <!-- POSTS PART 2 -->
-                        <div class="col-sm-4">
+                        <div class="col-sm-4 padding-horiz-10">
                             <article class="single-post-v2 mtb35">
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_traingle1.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             New Trends In Web Design
                                         </a>
                                     </h3>
@@ -199,12 +215,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_traingle2.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             New Trends In Web Design
                                         </a>
                                     </h3>
@@ -224,12 +240,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_traingle3.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             New Trends In Web Design
                                         </a>
                                     </h3>
@@ -249,12 +265,12 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_traingle4.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single.html">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
-                                    <span class="tag">INSPIRATION</span>
-                                    <h3 class="title">
-                                        <a href="single.html">
+                                    <span class="tag">INSPIRATION 2</span>
+                                    <h3 class="title-news">
+                                        <a href="single-news.php">
                                             New Trends In Web Design
                                         </a>
                                     </h3>
@@ -272,39 +288,19 @@
                         </div> <!-- //.col-sm-3 POSTS PART 2 -->
                         <!-- //END ALL POSTS -->
 
-                        <div class="col-sm-12">
-                            <!-- =========   PAGINATION  ========= -->
-                            <ul class="pagination mtb140">
-                                <li>
-                                    <a href="#" aria-label="Previous">
-                                        <span aria-hidden="true"><i class="fa fa-angle-double-left"></i> PREV</span>
-                                    </a>
-                                </li>
-                                <li class="active"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">5</a></li>
-                                <li>
-                                    <a href="#" aria-label="Next">
-                                        <span aria-hidden="true">NEXT <i class="fa fa-angle-double-right"></i></span>
-                                    </a>
-                                </li>
-                            </ul> <!-- //end pagination -->
-                        </div> <!-- //.col-sm-12 -->
-
                         <!-- =========   SIDEBAR  ========= -->
-                        <div class="col-sm-4">
+                        <div class="col-sm-4 padding-horiz-10">
                             <!-- MOST POPULAR ARTICLE -->
                             <div class="most-popular most-popular-v2 mtb50">
                                 <h5 class="section-title mini-title">Most Popular</h5>
+
                                 <article class="mtb10">
                                     <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
+                                        <a href="single-news.php"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
                                     </div>
                                     <div class="info">
                                         <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title ft-fm-2">
+                                        <a href="single-news.php" class="ft-fm-2">
                                             The Ily phone lets kids make video calls...
                                         </a>
                                     </div> <!-- //.info -->
@@ -312,11 +308,11 @@
 
                                 <article class="mtb10">
                                     <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
+                                        <a href="single-news.php"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
                                     </div>
                                     <div class="info">
                                         <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
+                                        <a href="single-news.php">
                                             Chill smarter: The Loungr Inflatable Chair is now
                                         </a>
                                     </div> <!-- //.info -->
@@ -324,11 +320,11 @@
 
                                 <article class="mtb10">
                                     <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
+                                        <a href="single-news.php"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
                                     </div>
                                     <div class="info">
                                         <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
+                                        <a href="single-news.php">
                                             Apple doesn't understand photography
                                         </a>
                                     </div> <!-- //.info -->
@@ -336,11 +332,11 @@
 
                                 <article>
                                     <div class="img-wrapper">
-                                        <a href="single.html"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
+                                        <a href="single-news.php"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
                                     </div>
                                     <div class="info">
                                         <div class="bgcolor-major-gradient-overlay"></div>
-                                        <a href="single.html" class="title">
+                                        <a href="single-news.php">
                                             Ace the Amazon Web Services Certification Exams
                                         </a>
                                     </div> <!-- //.info -->
@@ -350,7 +346,7 @@
                             <!-- CATEGORIES -->
                             <div class="overflow-hid mtb40">
                                 <h5 class="section-title mini-title">All Categories</h5>
-                                <ul class="categories ft-fm-2">
+                                <ul class="categories-v2 ft-fm-2">
                                     <li>
                                         <a href="#">Web Design <span class="count">(2)</span></a>
                                     </li>
@@ -380,9 +376,35 @@
                                     </li>
                                 </ul>
                             </div> <!-- //categories -->
-                    </div> <!-- //row -->
+                        </div> <!-- //row -->
+
+                        <div class="row">
+                            <div class="col-sm-12 mtb50">
+                                <!-- =========   PAGINATION  ========= -->
+                                <ul class="pagination">
+                                    <li>
+                                        <a href="#" aria-label="Previous">
+                                            <span aria-hidden="true"><i class="fa fa-angle-double-left"></i> PREV</span>
+                                        </a>
+                                    </li>
+                                    <li class="active"><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                    <li><a href="#">3</a></li>
+                                    <li><a href="#">4</a></li>
+                                    <li><a href="#">5</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true">NEXT <i class="fa fa-angle-double-right"></i></span>
+                                        </a>
+                                    </li>
+                                </ul> <!-- //end pagination -->
+                            </div> <!-- //.col-sm-12 -->    
+                        </div> <!-- row page -->
+                    </div> <!-- row -->
+
                 </div> <!-- //container -->
             </section>
+
             <!-- //End blog section -->
         </div>
         <!-- === END NEWS CONTENT === --> 

@@ -192,6 +192,7 @@ button:hover,
 button:focus{
     outline: none;
 }
+
 input:hover,
 input:focus,
 input:active,
@@ -206,6 +207,7 @@ input,textarea{
     line-height: 40px;
     font-size: 16px;
 }
+
 section{
     overflow: hidden;
     position: relative;
@@ -414,76 +416,6 @@ footer.bgcolor-white,
     -webkit-transform: translateZ(0) scale(1.0,1.0);
     transform: translateZ(0) scale(1.0,1.0);
 }
-/*input aimation*/
-.input {
-    position: relative;
-    z-index: 1;
-    display: block;
-}
-.input:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 2px;
-    -webkit-transition: .3s;
-    transition: .3s;
-}
-.input-textarea:after{
-    bottom: 6px;
-}
-.input-field {
-    -webkit-transition: background-color 0.25s, border-color 0.25s;
-    transition: background-color 0.25s, border-color 0.25s;
-}
-
-.input-label {
-    width: 100%;
-    text-align: left;
-    position: absolute;
-    bottom: 100%;
-    left: 0;
-    pointer-events: none;
-    overflow: hidden;
-    margin: 0;
-    font-size: 16px;
-    font-weight: 400;
-    color: #bdbdbd;
-    -webkit-transform: translate3d(0, 2em, 0);
-    transform: translate3d(0, 2em, 0);
-    -webkit-transition: -webkit-transform 0.25s, font-size .25s;
-    transition: transform 0.25s , font-size .25s;
-    -webkit-transition-timing-function: ease-in-out;
-    transition-timing-function: ease-in-out;
-}
-
-.input-label-content {
-    -webkit-transition: -webkit-transform 0.25s;
-    transition: transform 0.25s;
-    -webkit-transition-timing-function: ease-in-out;
-    transition-timing-function: ease-in-out;
-}
-
-.input-field:focus + .input-label,
-.input-filled .input-label {
-    color: #8B8C8B;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-    font-size: 13px;
-}
-
-.input-field:focus + .input-label .input-label-content,
-.input-filled .input-label-content {
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
-}
-
-.input:focus:after,
-.input-filled.input:after {
-    width: 100%;
-}
-/*End input animation*/
 
 #page-wrap {
     position: relative;
@@ -1106,6 +1038,32 @@ blockquote {
 }
 /*------ End of about us  ------*/
 
+
+/*======================== CHART =========================*/
+.tabbed-about-us-v2.tabbed-about-us .images-chart { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+   font-weight: 200px;
+   z-index: 1000;
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h2 span.spacer {
+   padding:0 5px;
+}
+/*End of Chart*/
 
 /*==================   PORTFOLIO  ==================*/
 /*portfolio 2 grid*/
@@ -2599,18 +2557,19 @@ body .most-popular-v2 article .title:focus{
 }
 .most-popular-v2 .img-wrapper:before{ display: none; }
 .most-popular-v2 article:hover img{ opacity: 1; }
+.most-popular-v2 .info a{ text-decoration: none; color: #fff}
 /*------ End of popular articles  ------*/
 
 
 /*=============   CATEGORIES ARTICLES  =============*/
-.categories>li{
+.categories-v2>li{
     width: 50%;
     float: left;
     font-size: 16px;
     margin-bottom: 10px;
 }
-.categories-v2>li{ font-size: 14px; }
-.categories-v2>li a { color: #a6a6a6; }
+
+.categories-v2>li a { color: #a6a6a6; text-decoration: none;}
 /*------ End of categories articles  ------*/
 
 
@@ -2740,7 +2699,7 @@ body .most-popular-v2 article .title:focus{
     -webkit-transition: all .3s;
     transition: all .3s;
 }
-.single-post .title{
+.single-post .title-news{
     color: #212121;
     line-height: 1.2;
     font-size: 16px;
@@ -2754,7 +2713,7 @@ body .most-popular-v2 article .title:focus{
     -webkit-transition: .3s;
     transition: .3s;
 }
-.single-post.small .title{
+.single-post.small .title-news{
     font-size: 14px;
 }
 .single-post .article-info{
@@ -2814,8 +2773,13 @@ body .most-popular-v2 article .title:focus{
     margin-bottom: 10px;
     text-transform: uppercase;
 }
-.single-post-v2 .title{ margin-bottom: 15px; }
-.single-post-v2 .title a { color: #151414; }
+.single-post-v2 .title-news{ margin-bottom: 15px; }
+.single-post-v2 .title-news a { 
+    color: #151414; 
+    text-decoration: none; 
+    -webkit-transition: .3s;
+    transition: .3s;
+}
 .single-post-v2 .intro{
     font-size: 18px;
     color: #666666;
@@ -2914,7 +2878,7 @@ body .most-popular-v2 article .title:focus{
     display: block;
     margin-bottom: 10px;
 }
-.featured-posts-slider .info .title a{
+.featured-posts-slider .info .title-news a{
     color: #151414;
 }
 .featured-posts-slider .info .article-info{
@@ -3031,7 +2995,7 @@ ul.pagination>li.active>a{
     margin-top: -160px;
     position: relative;
 }
-.post-caption .title{ color: #212121; }
+.post-caption .title-news{ color: #212121; }
 .post-caption .post-tag {
     position: absolute;
     top: -15px;
@@ -3071,12 +3035,12 @@ ul.post-meta>li {
     text-transform: uppercase;
     font-weight: 700;
 }
-.post-info-v2 .title{
+.post-info-v2 .title-news{
     font-size: 30px;
     margin-top: 8px;
 }
-.post-info-v2 .title,
-.post-info-v2 .title a{
+.post-info-v2 .title-news,
+.post-info-v2 .title-news a{
     color: #151414;
 }
 .post-info-v2 .article-info { margin-top: 20px; }
@@ -3212,6 +3176,8 @@ ul.author-social li a {
     margin-bottom: 0;
 }
 
+.related-post-v2 .item .single-post a { text-decoration: none; }
+
 /* comments-box **************************/
 .comments-box{
     background: #fff;
@@ -3255,7 +3221,7 @@ ul.author-social li a {
 }
 .thumbs-option { font-size: 20px; }
 .thumbs-option span { margin-left: 10px; }
-.thumbs-option .count{ letter-spacing: -2px; }
+.thumbs-option .count{ letter-spacing: -2px; color: #a6a6a6;}
 
 /* comment-form **************************/
 .comment-form{
@@ -3269,7 +3235,7 @@ ul.author-social li a {
 .comment-form .input:first-child { margin-right: 2%; }
 .comment-form .input:nth-child(2) { margin-left: 2%; }
 .comment-form .input-textarea{ width: 100%; }
-.comment-form .input-textarea:after { bottom: 6px; }
+.comment-form .input-textarea:after { bottom: 1px; }
 .comment-author-v2{
     font-size: 18px;
     font-weight: 400;
