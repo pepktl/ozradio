@@ -43,7 +43,7 @@
 
                     <div class="section-header section-header-v2">
 
-                        <h2 class="section-title">Interesting for reading</h2>
+                        <h3 class="bold-txt section-title">Interesting for reading</h3>
 
                         <p class="section-subtitle ft-fm-2">
 

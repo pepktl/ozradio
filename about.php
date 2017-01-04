@@ -35,99 +35,82 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-		<div id="content" style="background-color: #FFFFFF">
-                <div class="container background-white" style="width: 100%">
-                    
-                    <div class="row">
-                        <div class="col-md-12">
-                            
-                        </div>
-                    </div>
+		<section class="background-white ptt40 ptb40">
+			<div class="container-abt">
+				<div class="row">
+					<!-- Leading Posts -->
+					<div class="col-sm-12">
+						<div class="featured-posts-slider mtb30 mtt30">
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="customnav">
+											<span class="prev"><i class="icon-angle-left"></i></span>
+											<span class="next"><i class="icon-angle-right"></i></span>
+										</div>
 
-                    <div class="row" style="margin: 0px auto;">
-                        <div class="col-md-12">
-                            
-                            <!-- Left Item -->
-                            <div class="col-md-6 col-md-offset-3" style="width: 320px; right: 160px; margin-top: 250px;">
-                                <h3>WELCOME!</h3><h3> YOU WILL LOVE IT</h3>
-                                <span style="color: #000000">OUR MISSION, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                            </div>
-                            <!-- End Left Item -->
-
-                            <!-- Right Item -->
-                            <div class="col-md-6">
-                                <div class="col-md-6">
-					  				<div class="row">
-					  					
-					  					<div class="col-md-4"">
-					  						<a href=""><img src="images/pong/190/an.jpg" style="display: inline-block;"></a>
-					  					</div>
-
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/ap.jpg" style="display: inline-block; padding-left: 85px;"></a>
-					  					</div>
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/as.jpg" style="display: inline-block; padding-left: 170px;"></a>
-					  					</div>
-
+										<div class="info">
+											<span class="tag">Creative | SUNDE</span>
+												<p>
+													Description of "Creative-Section"
+												</p>
+										</div>
+									</div> <!-- //.col-sm-4 -->
+									<div class="col-sm-8">
+										<img src="images/blog/list2/slider-post1.jpg" alt="post">
 									</div>
+								</div>
+							</div> <!-- //.item -->
 
-									<div class="row">
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/bm.jpg" style="display: inline-block;"></a>
-					  					</div>
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="customnav">
+											<span class="prev"><i class="icon-angle-left"></i></span>
+											<span class="next"><i class="icon-angle-right"></i></span>
+										</div>
 
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/da.jpg" style="display: inline-block; padding-left: 85px;"></a>
-					  					</div>
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/dp.jpg" style="display: inline-block; padding-left: 170px;"></a>
-					  					</div>
-					  					
+										<div class="info">
+											<span class="tag">Inspiring | SUNDE</span>
+												<p>
+													Description of "Inspiring-Section"
+												</p>
+										</div>
+									</div> <!-- //.col-sm-4 -->
+									<div class="col-sm-8">
+										<img src="images/blog/list2/slider-post2.jpg" alt="post">
 									</div>
+								</div>
+							</div> <!-- //.item -->
 
-									<div class="row">
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/ds.jpg" style="display: inline-block;"></a>
-					  					</div>
+							<div class="item">
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="customnav">
+											<span class="prev"><i class="icon-angle-left"></i></span>
+											<span class="next"><i class="icon-angle-right"></i></span>
+										</div>
 
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/eb.jpg" style="display: inline-block; padding-left: 85px;"></a>
-					  					</div>
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/ep.jpg" style="display: inline-block; padding-left: 170px;"></a>
-					  					</div>
-					  					
+										<div class="info">
+											<span class="tag">Inovate | SUNDE</span>
+												<p>
+													Description of "Inovate-Section"
+												</p>
+										</div>
+									</div> <!-- //.col-sm-4 -->
+									<div class="col-sm-8">
+										<img src="images/blog/list2/slider-post3.jpg" alt="post">
 									</div>
+								</div>
+							</div> <!-- //.item -->
+						</div>
+					</div> <!-- //.col-sm-12 -->
+					<!-- //End Leading Posts -->
 
-									<div class="row">
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/kl.jpg" style="display: inline-block;"></a>
-					  					</div>
-
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/nv.jpg" style="display: inline-block; padding-left: 85px;"></a>
-					  					</div>
-					  					
-					  					<div class="col-md-4">
-					  						<a href=""><img src="images/pong/190/pc.jpg" style="display: inline-block; padding-left: 170px;"></a>
-					  					</div>
-					  					
-									</div>
-					  			</div>
-                            </div>
-                            <!-- End Right Item -->
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+					<div class="clearfix"></div>
+				</div> <!-- //.row -->
+			</div> <!-- //.container -->
+		</section>
             
 		<div class="divider-page"></div>
 

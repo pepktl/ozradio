@@ -140,7 +140,7 @@
 
                         <div class="section-header section-header-v2 text-center">
 
-                            <h2 class="section-title">PROGRAM</h2>
+                            <h3 class="bold-txt section-title">PROGRAM</h3>
 
                             <p class="section-subtitle ft-fm-2">
 

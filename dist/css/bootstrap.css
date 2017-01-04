@@ -1656,6 +1656,26 @@ pre code {
   }
 }
 
+.container-abt {
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container-abt {
+    width: 525px;
+  }
+}
+@media (min-width: 992px) {
+  .container-abt {
+    width: 745px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-abt {
+    width: 1245px;
+  }
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
