@@ -1,4 +1,4 @@
-<div id="slide4-section" class="slide-client header-section">
+<div id="slide4-section" class="wrapper slide-client header-section">
 		    <div class="clear-float" style="margin-top: 50px; margin-bottom: 50px">
 
 			    <img class="logo-footer" src="images/logo.png">
@@ -19,9 +19,20 @@
 
 		    <!-- Go to top button -->
 
-			<button data-ripple-color="#fff" class="go-top ripple"><i class="icon-angle-up"></i></button>
+		
+</div>
+
+
+
+
+<div style="position: fixed; top: 0; right: 7%">
+	
+	<button style="position: relative;" id="go-top" data-ripple-color="#fff" class="go-top ripple">
+	<i class="icon-angle-up"></i></button>
 
 </div>
+
+
 
 		<!-- .END CONTENT TOP HITS -->
 
@@ -91,13 +102,14 @@
 		else window.onload = downloadJSAtOnload;
 		</script>
 
-		<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-
 
 		<!-- JS -->
             <script type="text/javascript" src="dist/js/port/jquery.min.js" type="text/javascript"></script>
             <script type="text/javascript" src="dist/js/port/bootstrap.min.js" type="text/javascript"></script>
+           
             <script type="text/javascript" src="dist/js/port/scripts.js"></script>
+
+
 
 		<!-- Isotope - Portfolio Sorting -->
             <script type="text/javascript" src="dist/js/port/jquery.isotope.js" type="text/javascript"></script>
@@ -122,16 +134,67 @@
 
 			<script type="text/javascript" src="dist/js/zim/app.js"></script>
 
-			<script>
-			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
-
-			  ga('create', 'UA-88669155-2', 'auto');
-			  ga('send', 'pageview');
-			</script>
+			
         <!-- end zim -->
+
+        <script type="text/javascript">
+	 	// -*- coding: utf-8 -*-
+		// 2010-03-10, 2014-04-10
+		// change the position of a “div#heart53100” element.
+
+		(function () {
+
+		    var offsetFromTop = window.innerHeight/1.2; // number of pixels of the widget should be from top of the window
+		    var updateFrequency= 15; //milisecond. The smaller the value, smooth the animation.
+		    var chaseFactor = .1; // the closing-in factor. Smaller makes it smoother.
+
+		    var yMoveTo=0;
+		    var yDiff=0;
+
+		    var movingWidget = document.getElementById("go-top");
+		    movingWidget.style.position="absolute";
+		    movingWidget.style.zIndex="2";
+		    movingWidget.style.top= offsetFromTop.toString() + "px";
+		    movingWidget.style.left="1ex";
+
+		    function ff(){
+		        // compute the distance user has scrolled the window
+		        yDiff = (navigator.appName === "Microsoft Internet Explorer") ? (yMoveTo - document.documentElement.scrollTop) : (yMoveTo - window.pageYOffset) ;
+
+		        if ( Math.abs(yDiff) > 9) {
+
+		            // turn off now, prevent the event repeatedly fired when user scroll repeatedly
+		            window.removeEventListener("scroll", ff);
+
+		            yMoveTo -= yDiff*chaseFactor;
+		            movingWidget.style.top  = (yMoveTo+offsetFromTop).toString() + "px" ;
+		            setTimeout(ff, updateFrequency); // calls itself again
+		        } else {
+		            window.addEventListener("scroll", ff , false); // turn back on
+		        }
+		    }
+
+		    window.addEventListener("scroll", ff , false);
+
+		})();
+</script>
+	<script src="dist/js/popup/classie.js"></script>
+		<script src="dist/js/popup/dialogFx.js"></script>
+
+		<script>
+			(function() {
+
+				[].slice.call( document.querySelectorAll( '[data-dialog]' ) ).forEach( function( trigger ) {
+					var dlg = new DialogFx( document.getElementById( trigger.getAttribute( 'data-dialog' ) ) );
+
+					trigger.addEventListener( 'click', dlg.toggle.bind(dlg) );
+				} );
+
+			})();
+
+			
+
+		</script>
 
 	</body>
 </html>

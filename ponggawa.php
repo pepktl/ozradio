@@ -1,4 +1,5 @@
 <?php include 'header.php' ?>
+<link rel="stylesheet" href="dist/css/popup.css">
 
 					<div class="slider">
                         <div class="slText" style="z-index: 5; position: absolute;">
@@ -76,18 +77,20 @@
 						    		</li>
 						    		
 						    		<li class="ponggawa-list">
+
 						    			<a href="#myModal"><img id="myImg" src="images/pong/190/ap.jpg" alt="Program Satu"></a>
 
-						    			<div id="myModal" class="modal">
+						    			<div id="myModal" class="modal" style="position: absolute; background-color: rgba(0,0,0,0.9);">
 
 											<!-- The Close Button -->
+											
 											<span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
-
 											<!-- Modal Content (The Image) -->
 											<img class="modal-content" id="img01">
 
 											<!-- Modal Caption (Image Text) -->
 											<div id="caption"></div>
+											
 											<div id="desc">
 												<p>
 													Gelombang radio adalah satu bentuk dari radiasi elektromagnetik, dan terbentuk ketika objek bermuatan listrik dari gelombang osilator (gelombang pembawa) dimodulasi dengan gelombang audio (ditumpangkan frekuensinya) pada frekuensi yang terdapat dalam frekuensi gelombang radio (RF; "radio frequency")) pada suatu spektrum elektromagnetik, dan radiasi elektromagnetiknya bergerak dengan cara osilasi elektrik maupun magnetik.
@@ -107,40 +110,54 @@
 						    		</li>
 						    		
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/as.jpg"></a>
+						    			<a href="images/pong/190/as.jpg" class="magnific"><img src="images/pong/190/as.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/bm.jpg"></a>
+						    			<a href="images/pong/190/bm.jpg" class="magnific"><img src="images/pong/190/bm.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/da.jpg"></a>
+						    			<a href="images/pong/190/da.jpg" class="magnific"><img src="images/pong/190/da.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/dp.jpg"></a>
+						    			<a href="images/pong/190/dp.jpg" class="magnific"><img src="images/pong/190/dp.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/ds.jpg"></a>
+						    			<a href="images/pong/190/ds.jpg" class="magnific"><img src="images/pong/190/ds.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/eb.jpg"></a>
+						    			<a href="images/pong/190/eb.jpg" class="magnific"><img src="images/pong/190/eb.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/ep.jpg"></a>
+						    			<a href="images/pong/190/ep.jpg" class="magnific"><img src="images/pong/190/ep.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/kl.jpg"></a>
+						    			<a href="images/pong/190/kl.jpg" class="magnific"><img src="images/pong/190/kl.jpg" ></a>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/nv.jpg"></a>
+						    			<button data-dialog="somedialog-1" class="trigger" class="magnific"><img src="images/pong/190/nv.jpg" ></button>
 						    		</li>
 						    		<li class="ponggawa-list">
-						    			<a href=""><img src="images/pong/190/pc.jpg"></a>
+						    			<button data-dialog="somedialog-0" class="trigger" ><img src="images/pong/190/pc.jpg" ></button>
 						    		</li>
 						    	</ul>
 				  			</div>
                         </div>
-                        <!-- End Right Item -->
+                       
+						
 
+						<div id="somedialog-0" class="dialog">
+							<div class="dialog__overlay"></div>
+							<div class="dialog__content">
+								<img src="images/pong/190/pc.jpg">
+								<h2><strong>1 Howdy</strong>, I'm a dialog box</h2><div><button class="action" data-dialog-close>Close</button></div>
+							</div>
+						</div>
+						<div id="somedialog-1" class="dialog">
+							<div class="dialog__overlay"></div>
+							<div class="dialog__content">
+								<h2><strong>2 Howdy</strong>, I'm a dialog box</h2><div><button class="action" data-dialog-close>Close</button></div>
+							</div>
+						</div>
                     </div>
                 </div>
             </div>
@@ -153,29 +170,10 @@
 
 		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		 <script type="text/javascript" src="dist/vendor/popup/jquery.magnific-popup.min.js"></script>
 
-		<script>
-			// Get the modal
-			var modal = document.getElementById('myModal');
 
-			// Get the image and insert it inside the modal - use its "alt" text as a caption
-			var img = document.getElementById('myImg');
-			var modalImg = document.getElementById("img01");
-			var captionText = document.getElementById("caption");
-			img.onclick = function(){
-			    modal.style.display = "block";
-			    modalImg.src = this.src;
-			    captionText.innerHTML = this.alt;
-			}
-
-			// Get the <span> element that closes the modal
-			var span = document.getElementsByClassName("close")[0];
-
-			// When the user clicks on <span> (x), close the modal
-			span.onclick = function() {
-			  modal.style.display = "none";
-			}
-		</script>
+		
 
         <!-- GSAP -->
         <script src="dist\vendor\greensock-js\src\minified\TweenMax.min.js"></script>
@@ -183,7 +181,7 @@
         <script src="dist\vendor\greensock-js\src\minified\plugins\TextPlugin.min.js"></script>
         <!-- <script src="dist\vendor\greensock-js\src\minified\main.js"></script> -->
         
-        <script>
+       <!--  <script>
         (function($){
             // jQuery
             var mouse = $('.slmouse'),
@@ -196,7 +194,7 @@
                 .from(teks1, 1, {y:-25, opacity:0, ease: Power2. easeOut}, '-=0.5');
 
         })(jQuery);
-        </script>
+        </script> -->
 
 <?php include 'footer.php' ?>
 		

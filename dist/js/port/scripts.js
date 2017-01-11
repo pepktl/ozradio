@@ -110,9 +110,9 @@ $(function () {
 });
 
 // Mobile Menu
-    $(function(){
-        $('#hornavmenu').slicknav();
-    });
+    // $(function(){
+    //     $('#hornavmenu').slicknav();
+    // });
 
 // Sticky Divs
 // $('#header').affix({
@@ -126,9 +126,24 @@ $(function () {
 //   }
 // });
 
-  $(window).load(function(){
-    $("#hornav").sticky({ topSpacing: 120 });
-  });
-  $(window).load(function(){
-    $("#header").sticky({ topSpacing: 0 });
-  });
+//   $(window).load(function(){
+//     $("#hornav").sticky({ topSpacing: 120 });
+//   });
+//   $(window).load(function(){
+//     $("#header").sticky({ topSpacing: 0 });
+//   });
+
+//   $('.magnific').magnificPopup({
+//   type:'image',
+//   removalDelay: 300,
+//   mainClass: 'mfp-fade'
+// });
+  
+// $('.magnific-youtube, .magnific-vimeo').magnificPopup({
+//   disableOn: 700,
+//   type: 'iframe',
+//   mainClass: 'mfp-fade',
+//   removalDelay: 300,
+//   preloader: false,
+//   fixedContentPos: false
+// });
