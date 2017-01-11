@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6,a{
 .divider-page{
   background-color: #f5bc0b;
   min-height: 2em;
-  z-index: 100000;
+  z-index: 2;
   position: relative;
 }
 
@@ -549,3 +549,58 @@ nav.navbar-fixed-top {
     -moz-transition: background .5s ease-in-out, opacity .5s ease;
     transition: background .5s ease-in-out, opacity .5s ease;
 }
+
+#go-top {position:absolute;
+bottom:0;
+right: 20%;
+z-index:99999;
+height:6em;
+width:10em;
+font-size:1.5em;
+z-index: 2;
+}
+
+// ponggawa hover
+a.sundepop, a.sundepop:visited {
+  color:#c00;
+  position:relative; 
+  z-index:1;
+  outline:none;   /* remove dotted outline */
+  display: block;
+  text-decoration:none;
+  border: 1px solid #FFCC99;
+  background-color: #FFF5EC;
+  text-align: center;
+  height: 60px;
+  width: 320px;
+  padding-top: 20px;
+  }
+  
+a.sundepop span {
+  position:absolute;
+  visibility:hidden; /* hide the image */
+  width:500px; /* give it a width */
+  height:0; /* no height to solve an Opera bug that makes it selectable when hidden */
+  left:370px; /* position:the image */
+  top:0;
+}
+
+a.sundepop:hover {  
+  text-decoration:none;
+  outline:none;
+  border:0; /* needed for this to work in IE */   
+  z-index:1000;
+}
+
+a.sundepop:hover span {
+  visibility:visible; /* make the image visible */
+  height:450px; /* now give it a height */  
+  cursor:pointer; /* for IE */  
+  z-index:500;
+}
+
+a.sundepop:hover span img { 
+  border:0; /* remove the link border */
+}
+
+
