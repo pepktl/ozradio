@@ -11,7 +11,7 @@
                             </div>
                         <div class="slmouse">
                                 <span class="scroll-btn" style="bottom: -20%;">
-                                    <a href="#"> 
+                                    <a href="#title"> 
                                         <span class="mouse">
                                             <span>
                                             </span>
@@ -36,12 +36,12 @@
 		<!-- CONTENT -->
         <!-- === NEWS CONTENT === -->
         <div class="background-white">
-            <section class="ptt40">
+            <section class="ptt40 ptb40">
                 <div class="container-news">
                     
                     <div class="row">
 
-                        <div class="blog-single-wrapper">
+                        <div id="title" class="blog-single-wrapper">
                             <!-- =========   Post Details  ========= -->
                             <div class="col-sm-8 padding-horiz-20">
 
@@ -161,13 +161,13 @@
 
                                                 <div class="img-wrapper">
 
-                                                    <a href="single.html"><img src="images/blog/1.jpg" alt="img"></a>
+                                                    <a href="single-news.php"><img src="images/blog/1.jpg" alt="img"></a>
 
                                                 </div>
 
                                                 <div class="mtt20">
 
-                                                    <a href="blog/single.html" class="title-news">
+                                                    <a href="single-news.php" class="title-news">
 
                                                         Incididunt ut labore et dolore magna
 
@@ -187,13 +187,13 @@
 
                                                 <div class="img-wrapper">
 
-                                                    <a href="single.html"><img src="images/blog/2.jpg" alt="img"></a>
+                                                    <a href="single-news.php"><img src="images/blog/2.jpg" alt="img"></a>
 
                                                 </div>
 
                                                 <div class="mtt20">
 
-                                                    <a href="blog/single.html" class="title-news">
+                                                    <a href="single-news.php" class="title-news">
 
                                                         Ut enim ad minim veniam, quis nostrud
 
@@ -213,13 +213,13 @@
 
                                                 <div class="img-wrapper">
 
-                                                    <a href="single.html"><img src="images/blog/3.jpg" alt="img"></a>
+                                                    <a href="single-news.php"><img src="images/blog/3.jpg" alt="img"></a>
 
                                                 </div>
 
                                                 <div class="mtt20">
 
-                                                    <a href="blog/single.html" class="title-news">
+                                                    <a href="single-news.php" class="title-news">
 
                                                         Duis aute irure dolor in reprehenderit
 
@@ -239,13 +239,13 @@
 
                                                 <div class="img-wrapper">
 
-                                                    <a href="single.html"><img src="images/blog/4.jpg" alt="img"></a>
+                                                    <a href="single-news.php"><img src="images/blog/4.jpg" alt="img"></a>
 
                                                 </div>
 
                                                 <div class="mtt20">
 
-                                                    <a href="blog/single.html" class="title-news">
+                                                    <a href="single-news.php" class="title-news">
 
                                                         Voluptate velit esse cillum dolore eu
 
@@ -263,13 +263,13 @@
 
                                                 <div class="img-wrapper">
 
-                                                    <a href="single.html"><img src="images/blog/2.jpg" alt="img"></a>
+                                                    <a href="single-news.php"><img src="images/blog/2.jpg" alt="img"></a>
 
                                                 </div>
 
                                                 <div class="mtt20">
 
-                                                    <a href="blog/single.html" class="title-news">
+                                                    <a href="single-news.php" class="title-news">
 
                                                         Ut enim ad minim veniam, quis nostrud
 
@@ -515,11 +515,11 @@
 
                                     <article class="mtb10">
                                         <div class="img-wrapper">
-                                            <a href="single.html"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
+                                            <a href="single-news.php"><img src="images/blog/list2/popular1.jpg" alt="img"></a>
                                         </div>
                                         <div class="info">
                                             <div class="bgcolor-major-gradient-overlay"></div>
-                                            <a href="single.html" class="ft-fm-2">
+                                            <a href="single-news.php" class="ft-fm-2">
                                                 The Ily phone lets kids make video calls...
                                             </a>
                                         </div> <!-- //.info -->
@@ -527,11 +527,11 @@
 
                                     <article class="mtb10">
                                         <div class="img-wrapper">
-                                            <a href="single.html"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
+                                            <a href="single-news.php"><img src="images/blog/list2/popular2.jpg" alt="img"></a>
                                         </div>
                                         <div class="info">
                                             <div class="bgcolor-major-gradient-overlay"></div>
-                                            <a href="single.html">
+                                            <a href="single-news.php">
                                                 Chill smarter: The Loungr Inflatable Chair is now
                                             </a>
                                         </div> <!-- //.info -->
@@ -539,11 +539,11 @@
 
                                     <article class="mtb10">
                                         <div class="img-wrapper">
-                                            <a href="single.html"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
+                                            <a href="single-news.php"><img src="images/blog/list2/popular3.jpg" alt="img"></a>
                                         </div>
                                         <div class="info">
                                             <div class="bgcolor-major-gradient-overlay"></div>
-                                            <a href="single.html">
+                                            <a href="single-news.php">
                                                 Apple doesn't understand photography
                                             </a>
                                         </div> <!-- //.info -->
@@ -551,11 +551,11 @@
 
                                     <article>
                                         <div class="img-wrapper">
-                                            <a href="single.html"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
+                                            <a href="single-news.php"><img src="images/blog/list2/popular4.jpg" alt="img"></a>
                                         </div>
                                         <div class="info">
                                             <div class="bgcolor-major-gradient-overlay"></div>
-                                            <a href="single.html">
+                                            <a href="single-news.php">
                                                 Ace the Amazon Web Services Certification Exams
                                             </a>
                                         </div> <!-- //.info -->

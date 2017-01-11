@@ -35,8 +35,8 @@
 		<!-- =================================================== -->
 		<!-- CONTENT -->
         <!-- === NEWS CONTENT === -->
-        <div id="title" class="background-white">
-            <section class="ptt40">
+        <div id="title" class="background-real">
+            <section class="ptt40 ptb40">
                 <div class="container-news">
 
                     <!-- ========== SECTION HEADER ========== -->
