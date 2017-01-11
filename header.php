@@ -49,7 +49,7 @@
 						<span class="icon-bar" style="color: #fff;"></span>
 						<span class="icon-bar" style="color: #fff;"></span>
 					</button>
-					<a class="navbar-brand" href="#">
+					<a class="navbar-brand" href="index.php">
 							<img id="sticky" style="display: inline; float: left; margin-bottom: 0; padding-right: 5px;" width="80" src="images/logo-border.png" >
 							<p id="sticky-hidden" style=" visibility: hidden; float: left; display: inline; margin-bottom: 0; padding-top: 5px; color: #333;
 							position: absolute;">OZ RADIO BALI</p>
@@ -94,7 +94,7 @@
 			   		<a href="program.php">Program</a> 
 			   		<a href="ponggawa.php">Ponggawa</a> 
 			   		<a href="news.php">News</a>
-			   		<a href="chat.php">Chart</a> 
+			   		<a href="chart.php">Chart</a> 
 			   	</div>
 			</header>
 			<div class="image-overlay"></div>

@@ -11,7 +11,7 @@
                             </div>
                         <div class="slmouse">
                                 <span class="scroll-btn" style="bottom: -20%;">
-                                    <a href="#"> 
+                                    <a href="#title"> 
                                         <span class="mouse">
                                             <span>
                                             </span>
@@ -35,7 +35,7 @@
 
         <div class="background-white">
 
-        <div class="container-chart">
+        <div id="title" class="container-chart">
             <section id="about-us" class="about-us-bg section-common-space">
                 <!-- ========== SECTION HEADER ========== -->
 

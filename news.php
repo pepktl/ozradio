@@ -11,7 +11,7 @@
                             </div>
                         <div class="slmouse">
                                 <span class="scroll-btn" style="bottom: -20%;">
-                                    <a href="#"> 
+                                    <a href="#title"> 
                                         <span class="mouse">
                                             <span>
                                             </span>
@@ -35,7 +35,7 @@
 		<!-- =================================================== -->
 		<!-- CONTENT -->
         <!-- === NEWS CONTENT === -->
-        <div class="background-white">
+        <div id="title" class="background-white">
             <section class="ptt40">
                 <div class="container-news">
 

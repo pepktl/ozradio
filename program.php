@@ -10,7 +10,7 @@
                             </div>
                         <div class="slmouse">
                                 <span class="scroll-btn" style="bottom: -20%;">
-                                    <a href="#"> 
+                                    <a href="#title"> 
                                         <span class="mouse">
                                             <span>
                                             </span>
@@ -134,7 +134,7 @@
 		<!-- === PROGRAM CONTENT === -->
 			<div class="background-white">
 
-            <div class="container-prg">
+            <div id="title" class="container-prg">
                 <section id="about-us" class="about-us-bg section-common-space">
                     <!-- ========== SECTION HEADER ========== -->
 

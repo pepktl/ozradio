@@ -12,7 +12,7 @@
                             </div>
                         <div class="slmouse">
                                 <span class="scroll-btn" style="bottom: -20%;">
-                                    <a href="#"> 
+                                    <a href="#title"> 
                                         <span class="mouse">
                                             <span>
                                             </span>
@@ -37,7 +37,7 @@
 		<!-- CONTENT -->
 		<div id="content">
             <div>
-                <div class="row">
+                <div id="title" class="row">
                     <div class="col-md-12" style="height: 760px;">
                         
                         <!-- Left Item -->
