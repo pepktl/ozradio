@@ -33,13 +33,13 @@
 		<!-- SLIDESHOW -->
         <div class="divider-page"></div>
 
-        <div class="background-white">
+        <div class="background-real">
 
         <div id="title" class="container-chart">
-            <section id="about-us" class="about-us-bg section-common-space">
+            <section id="about-us" class="about-us-bg">
                 <!-- ========== SECTION HEADER ========== -->
 
-                <div class="section-header section-header-v2 text-center">
+                <div class="section-header chartheader section-header-v2 text-center">
 
                     <h3 class="bold-txt section-title">OUR MUSIC CHART</h3>
 
@@ -51,7 +51,7 @@
 
                 </div> <!-- //section-header -->
 
-                <div class="tabbed-about-us tabbed-about-us-v2">
+                <div class="tabbed-about-us tabbed-about-us-v2 centerchart">
 
                     <div class="row">
 
@@ -59,13 +59,14 @@
 
                             <!-- ========== NAV TABS ========== -->
 
-                            <ul class="tabs-nav" role="tablist">
+                            <ul class="tabs-nav tabs-chart" role="tablist">
 
                                 <li data-ripple-color="#fff" class="ripple active" role="presentation">
                                     <a href="#1" aria-controls="web" role="tab" data-toggle="tab">
                                         <div class="images-chart">
-                                            <img src="images/blog/1.jpg" alt="img">
-                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                            <img src="images/chart/chart1.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">HIP-HOP</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
                                         </div>
                                     </a>
                                 </li>
@@ -73,8 +74,9 @@
                                 <li data-ripple-color="#fff" class="ripple" role="presentation">
                                     <a href="#2" aria-controls="web" role="tab" data-toggle="tab">
                                         <div class="images-chart">
-                                            <img src="images/blog/1.jpg" alt="img">
-                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                            <img src="images/chart/chart5.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">DANCE</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
                                         </div>
                                     </a>
                                 </li>
@@ -82,8 +84,9 @@
                                 <li data-ripple-color="#fff" class="ripple" role="presentation">
                                     <a href="#3" aria-controls="web" role="tab" data-toggle="tab">
                                         <div class="images-chart">
-                                            <img src="images/blog/1.jpg" alt="img">
-                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                            <img src="images/chart/chart3.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">POP</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
                                         </div>
                                     </a>
                                 </li>
@@ -91,8 +94,19 @@
                                 <li data-ripple-color="#fff" class="ripple" role="presentation">
                                     <a href="#4" aria-controls="web" role="tab" data-toggle="tab">
                                         <div class="images-chart">
-                                            <img src="images/blog/1.jpg" alt="img">
-                                            <h2><span class="spacer">DISCOLAND</span></h2>
+                                            <img src="images/chart/chart4.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">ROCK</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#5" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/chart/chart2.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">K-POP</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
                                         </div>
                                     </a>
                                 </li>
@@ -103,7 +117,7 @@
                     </div>
 
                     <div class="row">
-                        <div class="col-sm-8">
+                        <div class="col-sm-11">
 
                             <div class="tab-content">
 
@@ -115,60 +129,60 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped">
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">01</td>
-                                                  <td style="color: #000">
+                                            <table class="table table-striped table-set">
+                                              <tr>
+                                                  <td>01</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">02</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>02</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">03</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>03</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">04</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>04</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">05</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>05</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">06</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>06</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Agus Dwi Nugraha</td>
-                                                  <td style="color: #000">Ten Kayun Nyentana</td>
-                                                  <td style="color: #000">Braban Musica Rekod</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                             </table>
 
@@ -188,60 +202,60 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped">
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">01</td>
-                                                  <td style="color: #000">
+                                            <table class="table table-striped table-set">
+                                              <tr>
+                                                  <td>01</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">02</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>02</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">03</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>03</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">04</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>04</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">05</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>05</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">06</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>06</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Lomine</td>
-                                                  <td style="color: #000">Lama Menduda</td>
-                                                  <td style="color: #000">Marga Musica Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                             </table>
 
@@ -261,60 +275,60 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped">
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">01</td>
-                                                  <td style="color: #000">
+                                            <table class="table table-striped table-set">
+                                              <tr>
+                                                  <td>01</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">02</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>02</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">03</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>03</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">04</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>04</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">05</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>05</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">06</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>06</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Man Ngah</td>
-                                                  <td style="color: #000">Kealang Sentana</td>
-                                                  <td style="color: #000">Kapal Unipersal</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                             </table>
 
@@ -334,60 +348,132 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped">
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">01</td>
-                                                  <td style="color: #000">
+                                            <table class="table table-striped table-set">
+                                              <tr>
+                                                  <td>01</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">02</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>02</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">03</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>03</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">04</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>04</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">05</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>05</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
-                                              <tr style="width: 100%">
-                                                  <td style="color: #000">06</td>
-                                                  <td style="color: #000">
+                                              <tr>
+                                                  <td>06</td>
+                                                  <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td style="color: #000">Iting Ganteng</td>
-                                                  <td style="color: #000">Takut Sama Mama</td>
-                                                  <td style="color: #000">Seputaran Renon Setudio</td>
+                                                  <td>Iting Ganteng</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                            </table>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane" id="5">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
+                                            <table class="table table-striped table-set">
+                                              <tr>
+                                                  <td>01</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr>
+                                                  <td>02</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr>
+                                                  <td>03</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr>
+                                                  <td>04</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr>
+                                                  <td>05</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
+                                              </tr>
+                                              <tr>
+                                                  <td>06</td>
+                                                  <td>
+                                                    <img src="images/blog/author.jpg" alt="img">
+                                                  </td>
+                                                  <td>Luk Mong</td>
+                                                  <td>Takut Sama Mama</td>
+                                                  <td>Seputaran Renon Setudio</td>
                                               </tr>
                                             </table>
 

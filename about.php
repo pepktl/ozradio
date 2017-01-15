@@ -36,7 +36,7 @@
 		<!-- =================================================== -->
 		<!-- CONTENT -->
 		<section class="background-white ptt40 ptb40">
-			<div id="title" class="container-abt">
+			<div class="container-abt">
 				<div class="row">
 					<!-- Leading Posts -->
 					<div class="col-sm-12">

@@ -132,13 +132,13 @@
 		<div class="divider-page"></div>
 
 		<!-- === PROGRAM CONTENT === -->
-			<div class="background-white">
+			<div class="background-real">
 
             <div id="title" class="container-prg">
-                <section id="about-us" class="about-us-bg section-common-space">
+                <section id="about-us" class="about-us-bg">
                     <!-- ========== SECTION HEADER ========== -->
 
-                        <div class="section-header section-header-v2 text-center">
+                        <div class="section-header programheader section-header-v2 text-center">
 
                             <h3 class="bold-txt section-title">PROGRAM</h3>
 
@@ -160,17 +160,17 @@
 
                                     <ul class="tabs-nav" role="tablist">
 
-                                        <li data-ripple-color="#fff"  class="ripple active" role="presentation"><a href="#1" aria-controls="web" role="tab" data-toggle="tab"><span class="icon"><i class="icon-cpu"></i></span><span class="bgcolor-major-gradient-overlay"></span>DISCOLAND</a></li>
+                                        <li data-ripple-color="#fff" class="ripple active" role="presentation"><a href="#1" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-music"></i></span><span class="bgcolor-major-gradient-overlay"></span>Discoland</a></li>
 
-                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#2" aria-controls="print" role="tab" data-toggle="tab"><span class="icon"><i class="icon-printer"></i></span><span class="bgcolor-major-gradient-overlay"></span>FRESH</a></li>
+                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#2" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-youtube-play"></i></span><span class="bgcolor-major-gradient-overlay"></span>Fresh</a></li>
 
-                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#3" aria-controls="development" role="tab" data-toggle="tab"><span class="icon"><i class="icon-layout"></i></span><span class="bgcolor-major-gradient-overlay"></span>LOVE CINTA</a></li>
+                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#3" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-play"></i></span><span class="bgcolor-major-gradient-overlay"></span>Love Cinta</a></li>
 
-                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#4" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-building"></i></span><span class="bgcolor-major-gradient-overlay"></span>MATA SAPI</a></li>
+                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#4" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-play-circle"></i></span><span class="bgcolor-major-gradient-overlay"></span>Mata Sapi</a></li>
 
-                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#5" aria-controls="marketing" role="tab" data-toggle="tab"><span class="icon"><i class="icon-pie"></i></span><span class="bgcolor-major-gradient-overlay"></span>SORE SANTAI</a></li>
+                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#5" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-headphones"></i></span><span class="bgcolor-major-gradient-overlay"></span>Sore Santai</a></li>
 
-                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#6" aria-controls="marketing" role="tab" data-toggle="tab"><span class="icon"><i class="icon-headset"></i></span><span class="bgcolor-major-gradient-overlay"></span>FRESH</a></li>
+                                        <li data-ripple-color="#fff" class="ripple" role="presentation"><a href="#6" aria-controls="branding" role="tab" data-toggle="tab"><span class="icon"><i class="icon-check"></i></span><span class="bgcolor-major-gradient-overlay"></span>Fresh</a></li>
 
                                     </ul>
 
@@ -178,7 +178,7 @@
 
 
 
-                                <div class="col-sm-6">
+                                <div class="col-sm-5">
 
                                     <div class="tab-content">
 

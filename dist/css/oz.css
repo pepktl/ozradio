@@ -127,7 +127,6 @@ h1,h2,h3,h4,h5,h6,a{
 .divider-page{
   background-color: #f5bc0b;
   min-height: 2em;
-  z-index: 2;
   position: relative;
 }
 

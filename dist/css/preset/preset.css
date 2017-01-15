@@ -83,6 +83,15 @@ footer a{
   color: #f3474b;
 }
 
+.tabbed-about-us .tabs-nav.tabs-chart li *{
+  color: #009cff;
+}
+
+.tabbed-about-us .tabs-nav.tabs-chart li:hover *,
+.tabbed-about-us .tabs-nav.tabs-chart li.active *{
+ color: #f3474b; 
+}
+
 .btn.btn-info:hover,
 .btn.btn-info:focus,
 .btn.btn-border:hover,

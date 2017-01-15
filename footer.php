@@ -25,7 +25,7 @@
 
 
 
-<div style="position: fixed; top: 0; right: 7%">
+<div style="position: fixed; top: 0; right: 7%; z-index: 10;">
 	
 	<button style="position: relative;" id="go-top" data-ripple-color="#fff" class="go-top ripple">
 	<i class="icon-angle-up"></i></button>
@@ -191,8 +191,6 @@
 				} );
 
 			})();
-
-			
 
 		</script>
 

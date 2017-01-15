@@ -170,7 +170,7 @@ h1,h2,h3,h4,h5,h6,p{
     border-radius: 50%;
     width: 50px;
     height: 50px;
-    background: #8e8d8d;
+    /*background: #8e8d8d;*/
     -webkit-animation: ripple-animation 2s;
     animation: ripple-animation 2s;
 }
@@ -454,6 +454,8 @@ blockquote {
 
 /*=================   SECTION HEADER  ================*/
 .section-header{ margin-bottom: 60px; }
+.section-header.programheader {padding-top: 30px; }
+.section-header.chartheader {padding-top: 50px; }
 .section-title{
     color: #1c1c1c;
     margin-bottom: 60px;
@@ -908,11 +910,12 @@ blockquote {
     color: #1c1c1c;
     margin-bottom: 50px;
 }
-.tabbed-about-us .details p{ margin-bottom: 30px; }
+.tabbed-about-us .details p{ margin-bottom: 30px; margin-top: 15px;}
 .tabbed-about-us .details p:last-child{ margin-bottom: 0; }
 .tabbed-about-us .details img{
     max-height: 700px;
     max-width: 500px;
+    border-radius: 4px;
 }
 .pie-title-center {
     display: inline-block;
@@ -988,6 +991,7 @@ blockquote {
 .tabbed-about-us-v2.tabbed-about-us .tabs-nav{
     background-color: transparent;
     padding: 0;
+    margin-left: 50px;
 }
 .tabbed-about-us-v2.tabbed-about-us .tabs-nav li{
     display: table;
@@ -1000,10 +1004,13 @@ blockquote {
     border-radius: 2px;
     -webkit-transition: .3s;
     transition: .3s;
+    font-size: 16px;
+    font-weight: bold;
 }
 .tabbed-about-us-v2.tabbed-about-us .tabs-nav li>a{
     display: table-cell;
     vertical-align: middle;
+    text-decoration: none;
 }
 .tabbed-about-us-v2.tabbed-about-us .details-wrapper {
     padding-left: 0;
@@ -1040,28 +1047,73 @@ blockquote {
 
 
 /*======================== CHART =========================*/
+.tabbed-about-us-v2.tabbed-about-us .tabs-nav.tabs-chart{
+    background-color: transparent;
+    padding: 0;
+    margin-left: 65px;
+}
+.tabbed-about-us-v2.tabbed-about-us .tabs-nav.tabs-chart li{
+    display: table;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    width: 184px;
+    height: 184px;
+    float: left;
+    border-radius: 2px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-size: 16px;
+    font-weight: bold;
+}
+.tabbed-about-us-v2.tabbed-about-us .centerchart{
+    margin: auto;
+}
 .tabbed-about-us-v2.tabbed-about-us .images-chart { 
-   position: relative; 
-   width: 100%; /* for IE 6 */
+   position: relative;
+   max-height: 184px;
+   max-width: 184px;
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 { 
    position: absolute; 
-   top: 200px; 
+   top: 80px; 
    left: 0; 
+   width: 50%; 
+   font-weight: 250px;
+   z-index: 9999;
+   color: #000000;
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h4 { 
+   position: absolute; 
+   top: 122px; 
+   left: 0;
    width: 100%; 
-   font-weight: 200px;
-   z-index: 1000;
+   font-size: 20px;
+   font-weight: bold;
+   z-index: 9999;
+   color: #000000;
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 span { 
-   color: white; 
+   /*color: blue;*/ 
    font: bold 24px/45px Helvetica, Sans-Serif; 
    letter-spacing: -1px;  
-   background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.7);
+   /*background: rgb(0, 0, 0);*/ /* fallback color */
+   /*background: rgba(0, 0, 0, 0.7);*/
    padding: 10px; 
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 span.spacer {
-   padding:0 5px;
+   padding:0 25px;
+}
+.tabbed-about-us.tabbed-about-us-v2 .table-set {
+    width: 100%;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.tabbed-about-us.tabbed-about-us-v2 .table-set td {
+    color: #000;
+    vertical-align: center;
+    text-align: center;
+    font-size: 16px;
 }
 /*End of Chart*/
 
