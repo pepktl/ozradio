@@ -1085,7 +1085,7 @@ blockquote {
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h4 { 
    position: absolute; 
-   top: 122px; 
+   top: 117px;
    left: 0;
    width: 100%; 
    font-size: 20px;
@@ -1097,11 +1097,20 @@ blockquote {
    /*color: blue;*/ 
    font: bold 24px/45px Helvetica, Sans-Serif; 
    letter-spacing: -1px;  
-   /*background: rgb(0, 0, 0);*/ /* fallback color */
-   /*background: rgba(0, 0, 0, 0.7);*/
-   padding: 10px; 
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 span.spacer {
+   padding:0 25px;
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h4 span { 
+   /*color: blue;*/ 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+}
+.tabbed-about-us-v2.tabbed-about-us .images-chart h4 span.spacer {
    padding:0 25px;
 }
 .tabbed-about-us.tabbed-about-us-v2 .table-set {
@@ -1216,7 +1225,7 @@ blockquote {
 .portfolio-items .item .caption .tag {
     font-size: 12px;
 }
-.portfolio-items .item .caption .title{
+.portfolio-items .item .caption .title-pong{
     color: #1c1c1c;
     font-weight: 700;
     text-transform: uppercase;
@@ -1300,9 +1309,12 @@ blockquote {
     transform: rotate(5deg) scale(1.2);
 }
 .portfolio-items-v2.portfolio-items .item .caption .tag,
-.portfolio-items-v2.portfolio-items .item .caption .title,
+.portfolio-items-v2.portfolio-items .item .caption .title-pong,
 .portfolio-items-v2.portfolio-items .item .caption .popup{
     color: #fff;
+}
+.portfolio-items-v2.portfolio-items .item .caption a{
+    text-decoration: none;
 }
 .portfolio-items-v2.portfolio-items .item .caption .tag{
     font-size: 14px;

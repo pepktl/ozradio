@@ -1676,6 +1676,28 @@ pre code {
   }
 }
 
+.container-pong {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+  .container-pong {
+    width: 525px;
+  }
+}
+@media (min-width: 992px) {
+  .container-pong {
+    width: 745px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-pong {
+    width: 1045px;
+  }
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;

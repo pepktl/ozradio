@@ -91,6 +91,11 @@ p {
   box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
 
+.title-pong {
+  padding: 1%;
+  border-radius: 5px;
+}
+
 .slide-section:nth-child(2n) .title {
   margin-left: 0;
   margin-right: auto;
