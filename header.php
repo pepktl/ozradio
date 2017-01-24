@@ -7,6 +7,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>OZ RADIO BALI | 101.2FM</title>
 
+		<link rel="stylesheet" href="dist/css/fancy/bootstrap.min.css">
+		<link rel="stylesheet" href="dist/css/fancy/jquery.fancybox.css">
+		<link rel="stylesheet" href="dist/css/fancy/main.css">
+		<link rel="stylesheet" href="dist/css/fancy/responsive.css">
+
 		<link rel="stylesheet" href="dist/css/plugins.css">
 		<link rel="stylesheet" href="dist/css/style.css">
 		<link rel="stylesheet" href="dist/css/preset/preset.css">

@@ -373,7 +373,7 @@ jQuery(function($) {
 		});
 	};
 
-	/*==========  MAGNIFIC POPUP ==========*/
+	/*==========  MAGNIFIC POPUP ==========*/ 
     if ($('.popup').length > 0) {
         $('.popup').magnificPopup({
             type: 'image',

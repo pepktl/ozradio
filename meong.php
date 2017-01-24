@@ -31,353 +31,102 @@
 			</div>
 		</div>
 		<!-- SLIDESHOW -->
-    <div class="divider-page"></div>
-
-    <section id="portfolio" class="bgcolor-gray">
-
-      <div class="container-pong">
-
-        <!-- ========== SECTION HEADER ========== -->
-
-        <div class="section-header section-header-v2">
-
-          <h2 class="section-title">Our Portfolio</h2>
-
-          <p class="section-subtitle ft-fm-2">
-
-            You’ll be working with a small, dedicated team <br> built to fit the needs of your project.
-
-          </p>
-
-        </div> <!-- //section-header -->
-
-
-
-        <div class="portfolio-container">
-
-          <!-- PORTFOLIO ITEMS -->
-
-          <div class="portfolio-items portfolio-items-v2 col-3">
-
-            <!-- item -->
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong1.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong2.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong3.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong4.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong5.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong6.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/6.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong7.png" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong7.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong1.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong2.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong3.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong4.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-
-
-            <div class="item">
-
-              <figure>
-
-                <img src="images/pong/pong5.jpg" alt="work">
-
-                <figcaption>
-
-                  <div class="caption">
-
-                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
-
-                    <h3 class="title-pong">Description</h3>
-
-                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
-
-                  </div>
-
-                </figcaption>
-
-              </figure>
-
-            </div> <!-- //item -->
-
-          </div> <!-- //.all-items -->
-
-        </div> <!-- //.portfolio-container -->
-
-      </div> <!-- //container -->
-
-    </section>
+        <div class="divider-page"></div>
+
+        <section id="portfolio" class="background-real"> 
+
+            <div class="section-title text-center wow fadeInDown">
+                <h2>Services</h2>    
+                <p>Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Mauris blandit aliquet elit, eget tincidunt.</p>
+            </div>
+            
+            <nav class="project-filter clearfix text-center wow fadeInLeft"  data-wow-delay="0.5s">
+                <ul class="list-inline">
+                    <li><a href="javascript:;" class="filter" data-filter="all">All</a></li>
+                    <li><a href="javascript:;" class="filter" data-filter=".app">App</a></li>
+                    <li><a href="javascript:;" class="filter" data-filter=".photography">Photography</a></li>
+                    <li><a href="javascript:;" class="filter" data-filter=".web">Web</a></li>
+                    <li><a href="javascript:;" class="filter" data-filter=".print">Print</a></li>
+                </ul>
+            </nav>
+
+            <div id="projects" class="clearfix">
+
+                <figure class="mix portfolio-item app">
+                    <img class="img-responsive" src="images/portfolio/portfolio-1.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-1.jpg" title="Title One" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item photography">
+                    <img class="img-responsive" src="images/portfolio/portfolio-2.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-2.jpg" title="Title Two" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item web">
+                    <img class="img-responsive" src="images/portfolio/portfolio-3.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-3.jpg" title="Title Three" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item print">
+                    <img class="img-responsive" src="images/portfolio/portfolio-4.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-4.jpg" title="Title Four" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item app">
+                    <img class="img-responsive" src="images/portfolio/portfolio-4.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-4.jpg" title="Title Five" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item photography">
+                    <img class="img-responsive" src="images/portfolio/portfolio-1.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-1.jpg" title="Title Six" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item web app">
+                    <img class="img-responsive" src="images/portfolio/portfolio-2.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-2.jpg" title="Title Seven" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item print web">
+                    <img class="img-responsive" src="images/portfolio/portfolio-3.jpg" alt="Portfolio Item">
+                    <a href="images/portfolio/portfolio-3.jpg" title="Title Eight" rel="portfolio" class="fancybox"><span class="plus"></span></a>
+                    <figcaption class="mask">
+                        <h3>Awesome Image</h3>
+                        <span>Photography</span>
+                    </figcaption>
+                </figure>
+
+            </div> <!-- end #projects -->
+
+        </section>
         
 		<div class="divider-page"></div>
 

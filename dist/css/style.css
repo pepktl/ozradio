@@ -1200,8 +1200,11 @@ blockquote {
 }
 .portfolio-items .item{
     float: left;
-    padding: 15px;
+    padding: 2px;
     box-sizing: border-box;
+}
+.portfolio-items .item-meong{
+    padding: 15px;
 }
 .portfolio-items .item figure{
     position: relative;

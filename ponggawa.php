@@ -35,354 +35,351 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-		<div id="content">
-            <div>
-                <div id="title" class="row">
-                    <div class="col-md-12"">
-                        
-                        <!-- Left Item -->
-                            <div class="col-md-3 col-md-offset-3" style="width: 320px; right: 160px; margin-top: 50%;">
-                                <h3>WELCOME!</h3><h3> YOU WILL LOVE IT</h3>
-                                <span>PONGGAWA, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
-                            </div>
-                        <!-- End Left Item -->
+		<section id="portfolio" class="bgcolor-gray">
 
-                        <!-- Right Item -->
-                        <div class="col-md-6">
-                        	<section id="portfolio">
+	      <div class="container-pong">
 
-						      <div>
+	        <!-- ========== SECTION HEADER ========== -->
 
-						        <div class="portfolio-container">
+	        <div class="section-header section-header-v2">
 
-						          <!-- PORTFOLIO ITEMS -->
+	          <h2 class="section-title bold-txt">Our Crew</h2>
 
-						          <div class="portfolio-items portfolio-items-v2 col-3">
+	          <p class="section-subtitle ft-fm-2">
 
-						            <!-- item -->
+	            You’ll be working with a small, dedicated team <br> built to fit the needs of your project.
 
-						            <div class="item">
+	          </p>
 
-						              <figure>
+	        </div> <!-- //section-header -->
 
-						                <img src="images/pong/pong1.jpg" alt="work">
 
-						                <figcaption>
 
-						                  <div class="caption">
+	        <div class="portfolio-container">
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	          <!-- PORTFOLIO ITEMS -->
 
-						                    <h3 class="title-pong">Description</h3>
+	          <div class="portfolio-items portfolio-items-v2 col-3">
 
-						                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
+	            <!-- item -->
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong1.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong2.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong2.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong3.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong3.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong4.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong4.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong5.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong5.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong6.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/6.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong6.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/6.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong7.png" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong7.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong7.png" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong7.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong1.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong1.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong2.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong2.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong3.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong3.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong4.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong4.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
+	                  <div class="caption">
 
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						            <div class="item">
+	                    <h3 class="title-pong">Description</h3>
 
-						              <figure>
+	                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                <img src="images/pong/pong5.jpg" alt="work">
+	                  </div>
 
-						                <figcaption>
+	                </figcaption>
 
-						                  <div class="caption">
+	              </figure>
 
-						                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	            </div> <!-- //item -->
 
-						                    <h3 class="title-pong">Description</h3>
 
-						                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
-						                  </div>
+	            <div class="item item-meong">
 
-						                </figcaption>
+	              <figure>
 
-						              </figure>
+	                <img src="images/pong/pong5.jpg" alt="work">
 
-						            </div> <!-- //item -->
+	                <figcaption>
 
-						          </div> <!-- //.all-items -->
+	                  <div class="caption">
 
-						        </div> <!-- //.portfolio-container -->
+	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
 
-						      </div> <!-- //container -->
+	                    <h3 class="title-pong">Description</h3>
 
-						    </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+	                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
+
+	                  </div>
+
+	                </figcaption>
+
+	              </figure>
+
+	            </div> <!-- //item -->
+
+	          </div> <!-- //.all-items -->
+
+	        </div> <!-- //.portfolio-container -->
+
+	      </div> <!-- //container -->
+
+	    </section>
             
 		<div class="divider-page"></div>
 
