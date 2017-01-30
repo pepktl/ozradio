@@ -16,7 +16,7 @@
 
 		    </div>
 </div>
-
+ 
 <!-- Go to top button -->
 <div style="position: fixed; top: 0; right: 7%; z-index: 10;">
 	
@@ -51,7 +51,7 @@
 				});
 
 				$(window).scroll(function() {
-				    if ($(".navbar").offset().top > 50) {
+				    if ($(".navbar").offset().top > 500) {
 				        $('#custom-nav').addClass('affix');
 				        $(".navbar-fixed-top").addClass("top-nav-collapse");
 				    } else {
@@ -93,7 +93,7 @@
 
 				(function () {
 
-				    var offsetFromTop = window.innerHeight/1.2; // number of pixels of the widget should be from top of the window
+				    var offsetFromTop = window.innerHeight/1.15; // number of pixels of the widget should be from top of the window
 				    var updateFrequency= 15; //milisecond. The smaller the value, smooth the animation.
 				    var chaseFactor = .1; // the closing-in factor. Smaller makes it smoother.
 

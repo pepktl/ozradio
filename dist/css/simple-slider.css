@@ -9,13 +9,11 @@
   height: 100%;
 }
 .slide1 {
-
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: none;
   animation:fade 8s infinite;
   -webkit-animation:fade 8s infinite;
-
 } 
 .slide2 {
   background-size: cover;

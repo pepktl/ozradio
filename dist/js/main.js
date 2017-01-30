@@ -12,10 +12,7 @@ $(document).ready(function () {
       toggleMenu();
   	});
 
-
     Mousetrap.bind('esc', function() {
       toggleMenu();
     });
-
-
   });

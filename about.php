@@ -35,7 +35,7 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-		<section class="background-white ptt40 ptb40">
+		<section id="title" class="background-white ptt40 ptb40">
 			<div class="container-abt">
 				<div class="row">
 					<!-- Leading Posts -->

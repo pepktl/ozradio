@@ -21,6 +21,7 @@
 		<link rel="stylesheet" type="text/css" href="dist/css/simple-slider.css">
 		<!-- <link rel="stylesheet/less" type="text/css" href="less/bootstrap.less" />
 		<script src="dist/js/less-2-7-1.min.js" type="text/javascript"></script> -->
+		
 		<link rel="stylesheet" href="dist/css/bootstrap.css">
 		<!-- Theme Css -->
 		<link rel="stylesheet" href="dist/css/paralax.css">
@@ -44,25 +45,23 @@
 	<body>
 
 
-		<nav id="custom-nav" class=" navbar navbar-default navbar-fixed-top" style="z-index: 9999;  " role="navigation">
+		<nav id="custom-nav" class="navbar navbar-default navbar-fixed-top" style="z-index: 9999;" role="navigation">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle navBtn" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar " style="color: #fff;"></span>
+						<span class="icon-bar" style="color: #fff;"></span>
 						<span class="icon-bar" style="color: #fff;"></span>
 						<span class="icon-bar" style="color: #fff;"></span>
 					</button>
 					<a class="navbar-brand" href="index.php">
-							<img id="sticky" style="display: inline; float: left; margin-bottom: 0; padding-right: 5px;" width="80" src="images/logo-border.png" >
-							<p id="sticky-hidden" style=" visibility: hidden; float: left; display: inline; margin-bottom: 0; padding-top: 5px; color: #333;
-							position: absolute;">OZ RADIO BALI</p>
-
-							<p id="sticky-txt" style="float: left; display: inline; margin-bottom: 0; padding-top: 5px; color: #fff;">OZ101.2FM</p>
-							
-							<h4 id="sticky-txt2" style="font-size: 2.40em; color: #fff; padding-left: 1	5px; display: inline-grid; ;"> BALI</h4>
-						</a>
+						<img id="sticky" style="display: inline; float: left; margin-bottom: 0; padding-right: 5px;" width="80" src="images/logo-border.png" >
+						<p id="sticky-hidden" style=" visibility: hidden; float: left; display: inline; margin-bottom: 0; color: #333; position: absolute;">OZ RADIO BALI</p>
+						<p id="sticky-txt" style="float: left; display: inline; margin-bottom: 0; color: #fff;">OZ101.2FM</p>
+						
+						<h4 id="sticky-txt2" style="font-size: 2.40em; color: #fff; padding-left: 1	5px; display: inline-grid; ;"> BALI</h4>
+					</a>
 				</div>
 		
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -70,10 +69,10 @@
 					
 					
 					<ul id="navbar" class=" hidden-xs nav navbar-nav navbar-right">
-							<li id="nav1"><a href="#"><i class="icon-instagram"></i></a></li>
-							<li id="nav2"><a href="#"><i class="icon-facebook"></i></a></li>
-							<li id="nav3"><a href="#"><i class="icon-twitter"></i></a></li>
-							<li id="nav4"><a href="#"><i class="icon-youtube"></i></a></li>
+							<li id="nav1"><a href="https://www.instagram.com/"><i class="icon-instagram"></i></a></li>
+							<li id="nav2"><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li id="nav3"><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li id="nav4"><a href="https://www.youtube.com/channel/UClh9nrZIAXQFpz0Z-IkuKmA"><i class="icon-youtube"></i></a></li>
 							<li id="nav5"><a href="http://radio.simaya.net.id:1320/listen.pls" target="_blank"><i class="icon-play"></i> STREAMING</a></li>
 							<li id="nav6">
 								<a href="#" class="navBtn">

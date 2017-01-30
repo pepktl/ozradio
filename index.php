@@ -1,7 +1,6 @@
 <?php include 'header.php'; ?>
 					
-
-					<div class="slider" >
+					<div class="slider">
 						<div class="slText" style="z-index: 5; position: absolute;">
 								
 								<h1 class="slider-txt" style="z-index: 5;">
@@ -27,7 +26,6 @@
 					  <div class="slide2" style="background-image: url(images/iwan-fals.jpg);"></div>
 					  <div class="slide3" style="background-image: url(images/is.jpg);"></div> 
 					</div>
-
 
 				</div>
 				
@@ -153,7 +151,7 @@
 
 					  	<div class="col-md-4">
 					  		<div class="box-radius pull-right" style="float: left; margin-left: 10%;">
-						  		<a href="#" class="btn btn-oz btn-lg">VIEW MORE</a>
+						  		<a href="news.php" class="btn btn-oz btn-lg">VIEW MORE</a>
 						  	</div>
 					  	</div>
  	

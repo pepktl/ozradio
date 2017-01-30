@@ -35,7 +35,7 @@
 		<div class="divider-page"></div>
 		<!-- =================================================== -->
 		<!-- CONTENT -->
-		<section id="portfolio" class="bgcolor-gray">
+		<section id="title" class="bgcolor-gray">
 
 	      <div class="container-pong">
 
@@ -43,7 +43,7 @@
 
 	        <div class="section-header section-header-v2">
 
-	          <h2 class="section-title bold-txt">Our Crew</h2>
+	          <h3 class="section-title bold-txt">Our Crew</h3>
 
 	          <p class="section-subtitle ft-fm-2">
 
@@ -73,9 +73,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -99,9 +115,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -125,9 +157,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -151,9 +199,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -177,9 +241,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -203,9 +283,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/6.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -229,9 +325,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong7.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -255,9 +367,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -281,9 +409,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong2.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -307,9 +451,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong3.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -333,9 +493,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong4.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 
@@ -359,9 +535,25 @@
 
 	                  <div class="caption">
 
-	                    <p class="tag animated fadeInUp">OZ CREW NAME</p>
+	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
 
-	                    <h3 class="title-pong">Description</h3>
+	                    	<div>
+                                <div class="author-content">
+                                    <ul class="author-social">
+                                        <li>
+                                            <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+	                    <p class="tag title-pong">Description</p>
 
 	                    <a href="images/pong/pong5.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 

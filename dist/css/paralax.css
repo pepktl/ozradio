@@ -1,19 +1,6 @@
-@import url('http://fonts.googleapis.com/css?family=Lato:400,700,900');
-
 html {
   height: 100%;
   // overflow: hidden;
-}
-
-body { 
-  margin:0;
-  padding:0;
-  perspective: 1px;
-  transform-style: preserve-3d;
-  height: 100%;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  font-family: Nunito;
 }
 
 h1 {
@@ -118,9 +105,7 @@ p {
 }
 
 #title {
-  
    background-attachment: fixed;
-
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -131,6 +116,7 @@ p {
   // transform: translateY(0);
   // transform: translateX(0);
   z-index:-1;
+  max-height: 250px;
 }
 
 #slide2-section {
@@ -194,6 +180,10 @@ p {
   position: relative;
   z-index: 5;
 }
+.menu-play a{
+  padding-left: 28px;
+  text-decoration: none;
+}
 .menu-play > a > i{
   padding: 20px;
 }
@@ -210,10 +200,11 @@ p {
 }
 .top-40 > ul {
   list-style: none;
-  font-size: 16px;
-  
+  font-size: 16px;  
 }
-
+.top-40 > ul > li> a {
+  text-decoration: none;  
+}
 .top-40 > ul > li {
   border-style: none none solid none;
   border-color: rgba(255, 255, 255, 0.3);

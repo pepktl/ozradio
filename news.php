@@ -62,7 +62,7 @@
                                 <div class="img-wrapper relative">
                                     <div class="bgcolor-major-gradient-overlay"></div>
                                     <img src="images/blog/list2/blog_wide1.jpg" alt="img">
-                                    <a class="ripple btn btn-lg btn-info hori-vert-center" href="single-news.php">View more</a>
+                                    <a class="ripple btn btn-lg btn-info hori-vert-center" style="z-index: 9999;" href="single-news.php">View more</a>
                                 </div>
                                 <div class="info">
                                     <span class="tag">INSPIRATION</span>
