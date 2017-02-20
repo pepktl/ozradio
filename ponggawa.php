@@ -43,7 +43,7 @@
 
 	        <div class="section-header section-header-v2">
 
-	          <h3 class="section-title bold-txt">Our Crew</h3>
+	          <h3 class="section-title bold-txt">Ponggawa of OZ Radio Bali</h3>
 
 	          <p class="section-subtitle ft-fm-2">
 
@@ -73,7 +73,7 @@
 
 	                  <div class="caption">
 
-	                    <h3 class="animated fadeInUp title-pong">OZ CREW NAME</h3>
+	                    <h3 class="animated fadeInUp title-pong">Wulan Kirana</h3>
 
 	                    	<div>
                                 <div class="author-content">
@@ -91,7 +91,7 @@
                                 </div>
                             </div>
 
-	                    <p class="tag title-pong">Description</p>
+	                    <p class="tag title-pong">Ponggawa dengan "Heart-warming voice", memiliki kemampuan bermain beberapa alat musik sekaligus. Ramah dengan siapa saja. Favorit para pendengar.</p>
 
 	                    <a href="images/pong/pong1.jpg" class="popup"><i class="icon-arrow-right"></i></a>
 

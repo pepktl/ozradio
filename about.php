@@ -50,9 +50,9 @@
 										</div>
 
 										<div class="info">
-											<span class="tag">Creative | SUNDE</span>
+											<span class="tag"># 1 Radio Station</span>
 												<p>
-													Description of "Creative-Section"
+													We are the leading in the most inspiring radio station
 												</p>
 										</div>
 									</div> <!-- //.col-sm-4 -->
@@ -71,9 +71,9 @@
 										</div>
 
 										<div class="info">
-											<span class="tag">Inspiring | SUNDE</span>
+											<span class="tag">Soul of The Youngster</span>
 												<p>
-													Description of "Inspiring-Section"
+													Youngster, let your your gone wild!
 												</p>
 										</div>
 									</div> <!-- //.col-sm-4 -->
@@ -92,9 +92,9 @@
 										</div>
 
 										<div class="info">
-											<span class="tag">Inovate | SUNDE</span>
+											<span class="tag">Inspiring The World</span>
 												<p>
-													Description of "Inovate-Section"
+													Encourage the world to be a better place with music
 												</p>
 										</div>
 									</div> <!-- //.col-sm-4 -->

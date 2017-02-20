@@ -48,9 +48,9 @@
                             
                             <!-- Left Item -->
                             <div class="col-md-6 col-md-offset-2" style="width: 420px; right: 90px; margin-top: 200px;">
-                                <h3 align="Left">WE ARE</h3>
+                                <h3 align="Left">OUR</h3>
                                 <h3 align="Left" style="color: #FFFFFF">CREATIVE PROGRAM</h3>
-                                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</span>
+                                <span>We are the leading in the most inspiring radio station</span>
                             </div>
                             <!-- End Left Item -->
 

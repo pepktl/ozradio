@@ -35,11 +35,11 @@
 
         <div class="background-real">
 
-        <div id="title" class="container-chart">
+        <div id="title">
             <section id="about-us" class="about-us-bg">
                 <!-- ========== SECTION HEADER ========== -->
 
-                <div class="section-header chartheader section-header-v2 text-center">
+                <div class="container-chart section-header chartheader section-header-v2 text-center">
 
                     <h3 class="bold-txt section-title">OUR MUSIC CHART</h3>
 
@@ -55,71 +55,9 @@
 
                     <div class="row">
 
-                        <div class="col-sm-12">
+                        <div class="col-sm-12 tabs-back">
 
-                            <!-- ========== NAV TABS ========== -->
-
-                            <ul class="tabs-nav tabs-chart" role="tablist">
-
-                                <li data-ripple-color="#fff" class="ripple active" role="presentation">
-                                    <a href="#1" aria-controls="web" role="tab" data-toggle="tab">
-                                        <div class="images-chart">
-                                            <img src="images/chart/chart1.jpg" class="img-responsive" alt="img">
-                                            <h2><span class="spacer">HIP-HOP</span></h2>
-                                            <h4><span class="spacer">CHART</span></h4>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li data-ripple-color="#fff" class="ripple" role="presentation">
-                                    <a href="#2" aria-controls="web" role="tab" data-toggle="tab">
-                                        <div class="images-chart">
-                                            <img src="images/chart/chart5.jpg" class="img-responsive" alt="img">
-                                            <h2><span class="spacer">DANCE</span></h2>
-                                            <h4><span class="spacer">CHART</span></h4>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li data-ripple-color="#fff" class="ripple" role="presentation">
-                                    <a href="#3" aria-controls="web" role="tab" data-toggle="tab">
-                                        <div class="images-chart">
-                                            <img src="images/chart/chart3.jpg" class="img-responsive" alt="img">
-                                            <h2><span class="spacer">POP</span></h2>
-                                            <h4><span class="spacer">CHART</span></h4>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li data-ripple-color="#fff" class="ripple" role="presentation">
-                                    <a href="#4" aria-controls="web" role="tab" data-toggle="tab">
-                                        <div class="images-chart">
-                                            <img src="images/chart/chart4.jpg" class="img-responsive" alt="img">
-                                            <h2><span class="spacer">ROCK</span></h2>
-                                            <h4><span class="spacer">CHART</span></h4>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li data-ripple-color="#fff" class="ripple" role="presentation">
-                                    <a href="#5" aria-controls="web" role="tab" data-toggle="tab">
-                                        <div class="images-chart">
-                                            <img src="images/chart/chart2.jpg" class="img-responsive" alt="img">
-                                            <h2><span class="spacer">K-POP</span></h2>
-                                            <h4><span class="spacer">CHART</span></h4>
-                                        </div>
-                                    </a>
-                                </li>
-
-                            </ul>
-
-                        </div> <!-- //.col-sm-6 -->
-                    </div>
-
-                    <div class="row">
-                        <div class="col-sm-11">
-
-                            <div class="tab-content">
+                            <div class="tab-content titlechart">
 
                                 <!-- ========== TAB PANE ========== -->
 
@@ -129,70 +67,19 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped table-set">
-                                              <tr>
-                                                  <td>01</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>02</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>03</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>04</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>05</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>06</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Agus Dwi Nugraha</td>
-                                                  <td>Ten Kayun Nyentana</td>
-                                                  <td>Braban Musica Rekod</td>
-                                              </tr>
-                                            </table>
+                                          <h3 class="bold-txt">120 INDONESIA HITS</h3>
+
+                                          <p class="ft-fm-2">
+
+                                              Indonesia Hits Single of The Week
+
+                                          </p>
 
                                         </div> <!-- //details -->
 
                                     </div> <!-- //.details-wrapper -->
 
                                 </div> <!-- //tab-pane -->
-
-
 
                                 <!-- ========== TAB PANE ========== -->
 
@@ -202,70 +89,19 @@
 
                                         <div class="details">
 
-                                            <table class="table table-striped table-set">
-                                              <tr>
-                                                  <td>01</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>02</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>03</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>04</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>05</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                              <tr>
-                                                  <td>06</td>
-                                                  <td>
-                                                    <img src="images/blog/author.jpg" alt="img">
-                                                  </td>
-                                                  <td>Lomine</td>
-                                                  <td>Lama Menduda</td>
-                                                  <td>Marga Musica Setudio</td>
-                                              </tr>
-                                            </table>
+                                        <h3 class="bold-txt">BIGGEST HITS</h3>
+
+                                          <p class="ft-fm-2">
+
+                                              All Hits Single of The Week
+
+                                          </p>
 
                                         </div> <!-- //details -->
 
                                     </div> <!-- //.details-wrapper -->
 
                                 </div> <!-- //tab-pane -->
-
-
 
                                 <!-- ========== TAB PANE ========== -->
 
@@ -275,60 +111,136 @@
 
                                         <div class="details">
 
+                                            <h3 class="bold-txt">OZTOPENTRY</h3>
+
+                                          <p class="ft-fm-2">
+
+                                              Oztopentry Chart of The Week
+
+                                          </p>
+
+                                        </div> <!-- //details -->
+
+                                    </div> <!-- //.details-wrapper -->
+
+                                </div> <!-- //tab-pane -->
+
+                            </div> <!-- //tab-content -->
+
+                        </div>
+
+                        <div>
+                          <!-- ========== NAV TABS ========== -->
+
+                            <ul class="tabs-nav tabs-chart" role="tablist">
+
+                                <li data-ripple-color="#fff" class="ripple active" role="presentation">
+                                    <a href="#1" aria-controls="web" role="tab" data-toggle="tab"></a>
+                                    <a href="#11" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/chart/chart1.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">120 INDO</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
+                                        </div>
+                                    </a>
+                                    
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#2" aria-controls="web" role="tab" data-toggle="tab"></a>
+                                    <a href="#22" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/chart/chart5.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">BIGGEST HITS</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
+                                        </div>
+                                    </a>
+                                    
+                                </li>
+
+                                <li data-ripple-color="#fff" class="ripple" role="presentation">
+                                    <a href="#3" aria-controls="web" role="tab" data-toggle="tab"></a>
+                                    <a href="#33" aria-controls="web" role="tab" data-toggle="tab">
+                                        <div class="images-chart">
+                                            <img src="images/chart/chart3.jpg" class="img-responsive" alt="img">
+                                            <h2><span class="spacer">OZTOPENTRY</span></h2>
+                                            <h4><span class="spacer">CHART</span></h4>
+                                        </div>
+                                    </a>
+                                    
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-11">
+
+                            <div class="tab-content" style="padding-top: 130px;">
+
+                                <!-- ========== TAB PANE ========== -->
+
+                                <div role="tabpanel" class="tab-pane active" id="11">
+
+                                    <div class="details-wrapper">
+
+                                        <div class="details">
+
                                             <table class="table table-striped table-set">
                                               <tr>
                                                   <td>01</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                               <tr>
                                                   <td>02</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                               <tr>
                                                   <td>03</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                               <tr>
                                                   <td>04</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                               <tr>
                                                   <td>05</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                               <tr>
                                                   <td>06</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Man Ngah</td>
-                                                  <td>Kealang Sentana</td>
-                                                  <td>Kapal Unipersal</td>
+                                                  <td>Agus Dwi Nugraha</td>
+                                                  <td>Ten Kayun Nyentana</td>
+                                                  <td>Braban Musica Rekod</td>
                                               </tr>
                                             </table>
 
@@ -342,7 +254,7 @@
 
                                 <!-- ========== TAB PANE ========== -->
 
-                                <div role="tabpanel" class="tab-pane" id="4">
+                                <div role="tabpanel" class="tab-pane" id="22">
 
                                     <div class="details-wrapper">
 
@@ -354,54 +266,54 @@
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                               <tr>
                                                   <td>02</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                               <tr>
                                                   <td>03</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                               <tr>
                                                   <td>04</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                               <tr>
                                                   <td>05</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                               <tr>
                                                   <td>06</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Iting Ganteng</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Lomine</td>
+                                                  <td>Lama Menduda</td>
+                                                  <td>Marga Musica Setudio</td>
                                               </tr>
                                             </table>
 
@@ -411,10 +323,9 @@
 
                                 </div> <!-- //tab-pane -->
 
-
                                 <!-- ========== TAB PANE ========== -->
 
-                                <div role="tabpanel" class="tab-pane" id="5">
+                                <div role="tabpanel" class="tab-pane" id="33">
 
                                     <div class="details-wrapper">
 
@@ -426,54 +337,54 @@
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                               <tr>
                                                   <td>02</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                               <tr>
                                                   <td>03</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                               <tr>
                                                   <td>04</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                               <tr>
                                                   <td>05</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                               <tr>
                                                   <td>06</td>
                                                   <td>
                                                     <img src="images/blog/author.jpg" alt="img">
                                                   </td>
-                                                  <td>Luk Mong</td>
-                                                  <td>Takut Sama Mama</td>
-                                                  <td>Seputaran Renon Setudio</td>
+                                                  <td>Man Ngah</td>
+                                                  <td>Kealang Sentana</td>
+                                                  <td>Kapal Unipersal</td>
                                               </tr>
                                             </table>
 

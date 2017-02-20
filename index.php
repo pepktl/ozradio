@@ -68,16 +68,16 @@
 				  			<h1 class="hits-text"><span class="ten-txt">#10</span> TOP HITS</h1>
 				  			<div class="top-40">
 				  				<ul>
-				  					<li><a href="#">1. TOP 1</a></li>
-				  					<li><a href="#">2. TOP SAMPLE</a></li>
-				  					<li><a href="#">3. TOP SAMPLE</a></li>
-				  					<li><a href="#">4. TOP SAMPLE</a></li>
-				  					<li><a href="#">5. TOP SAMPLE</a></li>
-				  					<li><a href="#">6. TOP SAMPLE</a></li>
-				  					<li><a href="#">7. TOP SAMPLE</a></li>
-				  					<li><a href="#">8. TOP SAMPLE</a></li>
-				  					<li><a href="#">9. TOP SAMPLE</a></li>
-				  					<li><a href="#">10. TOP SAMPLE</a></li>
+				  					<li><a href="#">1. Versace On The Floor <h6 style="display: inline-block;">- Bruno Mars</h6></a></li>
+				  					<li><a href="#">2. Shape of You <h6 style="display: inline-block;">- Ed Sheeran</h6></a></li>
+				  					<li><a href="#">3. Alone <h6 style="display: inline-block;">- Alan Walker</h6></a></li>
+				  					<li><a href="#">4. Paris <h6 style="display: inline-block;">- The Chainsmokers</h6></a></li>
+				  					<li><a href="#">5. Rockabye <h6 style="display: inline-block;">- Clean Bandit</h6></a></li>
+				  					<li><a href="#">6. Black Beatles <h6 style="display: inline-block;">- Rae Sremmurd</h6></a></li>
+				  					<li><a href="#">7. Bad Things <h6 style="display: inline-block;">- Machine Gun Kelly</h6></a></li>
+				  					<li><a href="#">8. Faded <h6 style="display: inline-block;">- Alan Walker</h6></a></li>
+				  					<li><a href="#">9. Just Hold On <h6 style="display: inline-block;">- Steve Aoki; Louis Tomlinson</h6></a></li>
+				  					<li><a href="#">10. Penantian Berharga <h6 style="display: inline-block;">- Rizky Febian</h6></a></li>
 				  					<li><a href="#">#40 TOP HITS</a></li>
 				  				</ul>
 				  			</div>
@@ -112,7 +112,7 @@
 				  	<div class="row box" style="padding-bottom: 0;">
 					  	<div class="col-md-8">
 					  		<img class="logo-body" src="images/logo-panel.png">
-					  		<a href="#">
+					  		<a href="program.php">
 					  			<div class="bg-program">
 						  			<img src="images/om-bob.jpg">
 						  		</div>
@@ -123,7 +123,7 @@
 					  	</div>
 
 						<div class="col-md-4">
-							<a href="#">
+							<a href="ponggawa.php">
 								<div class="bg-ponggawa">
 						  			<img src="images/gac.jpg">
 						  		</div>
@@ -295,12 +295,12 @@
 			var teks1a = '#1 HITS',
 				teks2a = 'RADIO',
 				teks3a = 'STATION',
-				teks1b = 'DERITA',
-				teks2b = 'CINTA',
-				teks3b = 'TIADA AKHIR',
-				teks1c = 'LIVE',
-				teks2c = 'LIKE',
-				teks3c = 'BRENK';
+				teks1b = 'THE BEST',
+				teks2b = 'RADIO STATION',
+				teks3b = 'IN BALI',
+				teks1c = 'LIFE STYLE',
+				teks2c = 'OF',
+				teks3c = 'NEW GENERATION';
 
 
 			var tlStart = new TimelineLite();
