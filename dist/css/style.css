@@ -913,7 +913,7 @@ blockquote {
     background-size: contain;
 }
 .about-us-bg .section-header-v2{
-    margin-bottom: 90px;
+    margin-bottom: 60px;
 }
 
 /*tabbed-about-us-v2*/
@@ -976,18 +976,24 @@ blockquote {
 
 
 /*======================== CHART =========================*/
+.tabbed-about-us-v2.tabbed-about-us .tabs-back{
+    background-color: #00ccff;
+    height: 197px;
+}
 .tabbed-about-us-v2.tabbed-about-us .tabs-nav.tabs-chart{
+    position: absolute;
     background-color: transparent;
     padding: 0;
+    padding-top: 50px;
     margin-left: 65px;
 }
 .tabbed-about-us-v2.tabbed-about-us .tabs-nav.tabs-chart li{
     display: table;
-    margin-right: 30px;
+    margin-right: 22px;
     margin-bottom: 30px;
     background-color: #ffffff;
-    width: 184px;
-    height: 184px;
+    width: 244px;
+    height: 244px;
     float: left;
     border-radius: 2px;
     -webkit-transition: .3s;
@@ -1000,21 +1006,21 @@ blockquote {
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart { 
    position: relative;
-   max-height: 184px;
-   max-width: 184px;
+   /*max-height: 184px;
+   max-width: 184px;*/
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 { 
    position: absolute; 
-   top: 80px; 
+   top: 110px; 
    left: 0; 
-   width: 50%; 
+   width: 100%; 
    font-weight: 250px;
    z-index: 9999;
    color: #000000;
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h4 { 
    position: absolute; 
-   top: 117px;
+   top: 150px;
    left: 0;
    width: 100%; 
    font-size: 20px;
@@ -1023,18 +1029,19 @@ blockquote {
    color: #000000;
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 span { 
-   /*color: blue;*/ 
+   color: #00ccff; 
    font: bold 24px/45px Helvetica, Sans-Serif; 
    letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h2 span.spacer {
-   padding:0 25px;
+   padding:0 40px 0 35px;
 }
 .tabbed-about-us-v2.tabbed-about-us .images-chart h4 span { 
-   /*color: blue;*/ 
+   color: #ffffff; 
    font: bold 24px/45px Helvetica, Sans-Serif; 
+   font-size: 30px;
    letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
@@ -1043,8 +1050,8 @@ blockquote {
    padding:0 25px;
 }
 .tabbed-about-us.tabbed-about-us-v2 .table-set {
-    width: 100%;
-    margin-left: 18px;
+    width: 80%;
+    margin-left: 100px; 
     margin-top: 20px;
 }
 .tabbed-about-us.tabbed-about-us-v2 .table-set td {
@@ -1519,6 +1526,8 @@ img.mfp-img {
 }
 .tab-content>.tab-pane{ border: 2px solid #f5f5f5; }
 .tab-content>.tab-pane .panel-body>div{ width: 50%; }
+.tab-content.titlechart{ padding-top: 30px; margin-left: 858px; }
+.tab-content.titlechart h3{ color: #ffffff }
 .panel-body { padding: 30px; }
 .nav-tabs-gradient.nav-tabs>li>a{ padding: 10px 20px; }
 .nav-tabs-gradient.nav-tabs>li.active>a:focus,
